@@ -1,6 +1,4 @@
-<p style="text-align: right;"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic001.jpg?raw=true" alt="" width="175" height="175" /></p>
-
-<h3 style="text-align: center;">Research career</h3>
+<h3 style="text-align: left;">Research career</h3>
 <style>
     tab1 { padding-left: 4em; }
 </style>
@@ -36,17 +34,7 @@
 <p>Blaž, C,; Naglič, P,; <strong>Sunil Paul, M. M.</strong>; Pernuš, P.; Likar, B.; Problems with optical stability of inks used as absorbers in water-based turbid phantoms. Applied Spectroscopy. (Under revision).</p>
 <p><strong>Sunil Paul, M. M.</strong>; Lee, W.; Choi, W.; Ligand Specific Dissolution of Iron Oxide(s) in Ice: A comparitive study with water. (to be communicated to Environ. Sci. & Tech.).</p>
 <p><strong>Sunil Paul, M. M.</strong>; Daun, J.; Aravindakumar, C. T.; Choi, W.; Accelerated Dissolution of Lead(IV) Oxide in Ice by Halides and its Environmental Implications. (Under Preparation).</p>
-<p><strong>Sunil Paul, M. M.; Nguyen, T. P.; Aravind, U. K.; Pramod, G.; Aravindakumar, C. T.; Exploring the Mechanism of Diphenylmethanol Oxidation: A Combined Experimental and Theoretical Approach (Under Preparation).</p>
+<p><strong>Sunil Paul, M. M.</strong>; Nguyen, T. P.; Aravind, U. K.; Pramod, G.; Aravindakumar, C. T.; Exploring the Mechanism of Diphenylmethanol Oxidation: A Combined Experimental and Theoretical Approach (Under Preparation).</p>
 <p>Sreekanth, R.; <strong>Sunil Paul, M. M.</strong>; Renjith, S.; Manojkumar, T. K.; Aravind, U. K.; Aravindakumar, C. T.; Oxidation Reactions of Carbary in Aqueous Solutions. (Under Preparation).</p>
 <p><strong>Sunil Paul, M. M.</strong>; Aravind, U. K.; Pramod, G.; Aravindakumar, C. T.; Oxidative Degradation of Pharmaceutical Waste, Theophylline, from River Water. (Under Preparation).</p>
 <p>Shoniya Thomas; Manoj, P. R.; <strong>Sunil Paul, M. M.</strong>; Aravind, U. K.; Aravindakumar, C. T.; Oxidative Degradation of Benzenesulfonic Acid by Hydroxyl Radical (Under Preparation).</p>
-
-<h4>Contacts:</h4>
-<p><strong>Permanent address</strong>: Menacherry House, Alangad P. O.,</p>
-<p>Aluva, Ernakulam Dist. PIN – 683 511</p>
-<p><strong>Present address</strong>: Researcher, Division of Environmental Science and Engineering,</p>
-<p>Pohang University of Science and Technology (POSTECH), 77 Cheongam-Ro,</p>
-<p>Nam-Gu, Pohang, Republic of Korea 790-78</p>
-<p><a href="https://www.researchgate.net/profile/Sunil_M2">ResearchGate</a></p>
-<p><strong>Email</strong>: sunilpaul@postech.ac.kr</p>
-<p><strong>Alt</strong>: sunil.kde@gmail.com</p>
