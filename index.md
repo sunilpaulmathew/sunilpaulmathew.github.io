@@ -12,13 +12,13 @@
 
 <p style="text-align: justify;"><tab1>Dr. Sunil was also associated with a number of international conferences and workshops (Coordinator, ICMS 2013: Member of the local organizing committee, AOP 2010, AOP 2012, ICM 2011, ICM 2013 etc.) organized by Prof. Aravindakumar’s group. He also played an important role in the installation of Ion Chromatography (IC), HPLC, LC-Q-TOF, LC-MS, UV-Vis spectrometer etc. in the inter-university instrumentation center (IUIC) in which Prof. Aravindakumar acts as the Hon. Director. Besides his research activities, he was also interested in photography, photo designing, music (listening old Hindi songs) and sports (badminton, football, cricket etc.). He was always keen to learn new technologies (e.g. Android development, Linux operating systems etc). In his spare time, he likes to involve in the development of Android Operating system and other opensource platforms. His interests and contributions to the Android world have been found on his <a href="https://forum.xda-developers.com/member.php?u=7060205">xda-developers forum account</a>.</tab1></p>
 
-<h4>Research Interests</h4>
-<p>Structural elucidation of metabolites/ degradation products of organic pollutants by High Resolution Mass Spectrometry (HRMS).</p>
-<p>Characterization of isomeric compounds by Energy-Resolved Mass Spectrometry (ERMS).</p>
-<p>Trace level detection of organic pollutants by tandem Mass Spectrometry.</p>
-<p>Advanced Oxidation Processes (AOPs) for the degradation of organic pollutants from water.</p>
-<p>Chemical transformations in ice phase.</p>
-<p>Fast kinetics of free radical reactions by Pulse radiolysis technique</p>
+<h4>Research Interests (<a href="https://www.researchgate.net/profile/Sunil_M2">ResearchGate Profile</a>)</h4> 
+* Structural elucidation of metabolites/ degradation products of organic pollutants by High Resolution Mass Spectrometry (HRMS).
+* Characterization of isomeric compounds by Energy-Resolved Mass Spectrometry (ERMS).
+* Trace level detection of organic pollutants by tandem Mass Spectrometry.
+* Advanced Oxidation Processes (AOPs) for the degradation of organic pollutants from water.
+* Chemical transformations in ice phase.
+* Fast kinetics of free radical reactions by Pulse radiolysis technique.
 
 <h4>Publications</h4>
 <p><strong>Sunil Paul</strong>, M. M.; Aravind, U. K.; Pramod, G.; Aravindakumar, C. T., Oxidative degradation of fensulfothion by hydroxyl radical in aqueous medium. Chemosphere 2013, 91, (3), 295-301.</p>
