@@ -1,7 +1,7 @@
 ---
 layout: smartpack
-title: SmartPack
-permalink: /smartpack/
+title: end-of-life-projects
+permalink: /end-of-life/
 ---
 
 * <a href="https://sunilpaulmathew.github.io/smartpack/">Main</a>
@@ -9,6 +9,8 @@ permalink: /smartpack/
 * <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
 * <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
 
-<h2 style="text-align: center;">SmartPack Projects</h2>
+<h3>End-of-Life projects</h3>
 
-*Work-in-progress*
+<h4>1. SmartPack-Kernel for Samsung Galaxy S5 LTE-A (Lineage-OS 14.1)</h4>
+
+<h4>2. SmartPack-Kernel for Samsung Galaxy S4 (Lineage-OS 14.1)</h4>

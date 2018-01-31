@@ -1,7 +1,7 @@
 ---
 layout: smartpack
-title: SmartPack
-permalink: /smartpack/
+title: other-projects
+permalink: /others/
 ---
 
 * <a href="https://sunilpaulmathew.github.io/smartpack/">Main</a>
@@ -9,6 +9,8 @@ permalink: /smartpack/
 * <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
 * <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
 
-<h2 style="text-align: center;">SmartPack Projects</h2>
+<h3>Other Projects</h3>
 
-*Work-in-progress*
+<h4>1. SmartPack-Kernel Manager</h4>
+
+<h4>2. Stock International ROM for Samsung Galaxy S5 (Stock Marshmallow)</h4>

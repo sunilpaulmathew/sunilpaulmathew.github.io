@@ -1,7 +1,7 @@
 ---
 layout: smartpack
-title: SmartPack
-permalink: /smartpack/
+title: active-kernel-projects
+permalink: /kernel-projects/
 ---
 
 * <a href="https://sunilpaulmathew.github.io/smartpack/">Main</a>
@@ -9,6 +9,10 @@ permalink: /smartpack/
 * <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
 * <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
 
-<h2 style="text-align: center;">SmartPack Projects</h2>
+<h3>Active Kernel Projects</h3>
 
-*Work-in-progress*
+<h4>1. SmartPack-Kernel for Samsung Galaxy S5 (Lineage-OS 14.1/15.1)</h4>
+
+<h4>2. SmartPack-Kernel for Samsung Galaxy S5 (Stock Marshmallow)</h4>
+
+<h4>3. Stock-Kernel (Linaro-7.x/UBERTC-8.x) for Samsung Galaxy S5 (Lineage-OS 14.1)</h4>
