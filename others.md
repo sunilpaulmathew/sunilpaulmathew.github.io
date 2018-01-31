@@ -16,7 +16,7 @@ permalink: /others/
 <h3>Other Projects</h3>
 
 <h4>1. SmartPack-Kernel Manager</h4>
-<p style="text-align: justify;">SmartPack-Kernel Manager is a modified version of official Kernel Adiutor, which is originally developed by Willi Ye aka Grarak. All the credits goes to the original developer. If you like his work, please consider to donate to him by clicking the PayPal button next to this test.</p>
+<p style="text-align: justify;">SmartPack-Kernel Manager is a modified version of official Kernel Adiutor, which is originally developed by Willi Ye aka Grarak. All the credits goes to the original developer.</p>
 ### Important links
 <p><a href="https://github.com/SmartPack/SmartPack-Kernel-Manager"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/latest"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a></p>
 
