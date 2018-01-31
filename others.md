@@ -28,3 +28,14 @@ permalink: /others/
 
 ### Important links
 <p><a href="https://forum.xda-developers.com/galaxy-s5/development/stock-international-rom-kltekor-t3720407"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://androidfilehost.com/?w=files&flid=235738"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a></p>
+
+
+<h4>3.F-zip</h4>
+<p style="text-align: justify;">F-zip is a universal shell script designed to make recovery flashable zip files within few simple steps.</p>
+<h4>Supported platforms</h4>
+
+* Linux
+* Android
+
+### Important links
+<p><a href="https://github.com/SmartPack/f-zip"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://github.com/SmartPack/f-zip/releases/latest"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a></p>
