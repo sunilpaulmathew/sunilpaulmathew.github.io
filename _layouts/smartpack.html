@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+{% seo %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+	<p style="text-align: left;"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="150" height="150" /></p>
+	<h3 style="text-align: left;">SmartPack-Kernel</h3>
+	<p style="text-align: left;"><strong>Stable and Powerful</strong></p>
+	<p>Developer:<strong> sunilpaulmathew</strong></p>
+	<p><a href="https://forum.xda-developers.com/member.php?u=7060205">xda-developers Profile</a></p>
+        {% if site.github.is_user_page %}
+        {% endif %}
+	<p><a href="https://github.com/SmartPack">GitHub</a></p>
+	<p><a href="https://t.me/sunilpaulmathew">Telegram</a></p>
+	<p><a href="https://www.paypal.me/sunilpaulmathew">Donations</a></p>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+
+      <footer>
+	<p><small>Idea & design: Aswathy Luckose</small></p>
+      </footer>
+
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+  </body>
+</html>
