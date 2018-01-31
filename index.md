@@ -12,7 +12,7 @@
 
 <p style="text-align: justify;"><tab1>Dr. Sunil was also associated with a number of international conferences and workshops (Coordinator, ICMS 2013: Member of the local organizing committee, AOP 2010, AOP 2012, ICM 2011, ICM 2013 etc.) organized by Prof. Aravindakumar’s group. He also played an important role in the installation of Ion Chromatography (IC), HPLC, LC-Q-TOF, LC-MS, UV-Vis spectrometer etc. in the inter-university instrumentation center (IUIC) in which Prof. Aravindakumar acts as the Hon. Director. Besides his research activities, he was also interested in photography, photo designing, music (listening old Hindi songs) and sports (badminton, football, cricket etc.). He was always keen to learn new technologies (e.g. Android development, Linux operating systems etc). In his spare time, he likes to involve in the development of Android Operating system and other opensource platforms. His interests and contributions to the Android world have been found on his <a href="https://forum.xda-developers.com/member.php?u=7060205">xda-developers forum account</a>.</tab1></p>
 
-<h4>Research Interests (<a href="https://www.researchgate.net/profile/Sunil_M2">ResearchGate Profile</a>)</h4> 
+<h4>Research Interests</h4> 
 * Structural elucidation of metabolites/ degradation products of organic pollutants by High Resolution Mass Spectrometry (HRMS).
 * Characterization of isomeric compounds by Energy-Resolved Mass Spectrometry (ERMS).
 * Trace level detection of organic pollutants by tandem Mass Spectrometry.
@@ -38,3 +38,5 @@
 <p>Sreekanth, R.; <strong>Sunil Paul, M. M.</strong>; Renjith, S.; Manojkumar, T. K.; Aravind, U. K.; Aravindakumar, C. T.; Oxidation Reactions of Carbary in Aqueous Solutions. (Under Preparation).</p>
 <p><strong>Sunil Paul, M. M.</strong>; Aravind, U. K.; Pramod, G.; Aravindakumar, C. T.; Oxidative Degradation of Pharmaceutical Waste, Theophylline, from River Water. (Under Preparation).</p>
 <p>Shoniya Thomas; Manoj, P. R.; <strong>Sunil Paul, M. M.</strong>; Aravind, U. K.; Aravindakumar, C. T.; Oxidative Degradation of Benzenesulfonic Acid by Hydroxyl Radical (Under Preparation).</p>
+
+<p><small>Idea & design: Aswathy Luckose</small></p>
