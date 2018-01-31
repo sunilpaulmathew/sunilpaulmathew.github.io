@@ -38,5 +38,3 @@
 <p>Sreekanth, R.; <strong>Sunil Paul, M. M.</strong>; Renjith, S.; Manojkumar, T. K.; Aravind, U. K.; Aravindakumar, C. T.; Oxidation Reactions of Carbary in Aqueous Solutions. (Under Preparation).</p>
 <p><strong>Sunil Paul, M. M.</strong>; Aravind, U. K.; Pramod, G.; Aravindakumar, C. T.; Oxidative Degradation of Pharmaceutical Waste, Theophylline, from River Water. (Under Preparation).</p>
 <p>Shoniya Thomas; Manoj, P. R.; <strong>Sunil Paul, M. M.</strong>; Aravind, U. K.; Aravindakumar, C. T.; Oxidative Degradation of Benzenesulfonic Acid by Hydroxyl Radical (Under Preparation).</p>
-
-<p style="text-align: center;"><small>Idea & design: Aswathy Luckose</small></p>
