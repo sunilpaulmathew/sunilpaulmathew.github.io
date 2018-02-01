@@ -4,6 +4,10 @@ title: SmartPack
 permalink: /smartpack/
 ---
 
+<style>
+    tab1 { padding-left: 4em; }
+</style>
+
 * <a href="https://sunilpaulmathew.github.io/kernel-projects/">Active Kernel Projects</a>
 * <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
 * <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>

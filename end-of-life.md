@@ -4,6 +4,10 @@ title: end-of-life-projects
 permalink: /end-of-life/
 ---
 
+<style>
+    tab1 { padding-left: 4em; }
+</style>
+
 * <a href="https://sunilpaulmathew.github.io/smartpack/">Main</a>
 * <a href="https://sunilpaulmathew.github.io/kernel-projects/">Active Kernel Projects</a>
 * <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
