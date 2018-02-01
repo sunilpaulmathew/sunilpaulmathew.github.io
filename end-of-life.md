@@ -7,7 +7,6 @@ permalink: /end-of-life/
 * <a href="https://sunilpaulmathew.github.io/smartpack/">Main</a>
 * <a href="https://sunilpaulmathew.github.io/kernel-projects/">Active Kernel Projects</a>
 * <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
-* <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
 
 <h3>End-of-Life projects</h3>
 
