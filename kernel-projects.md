@@ -18,6 +18,7 @@ permalink: /kernel-projects/
 * kltekor: SM-G900K/L/S
 * kltespr: SM-G900P/I
 * klteduos: SM-G900FD, SM-G900MD
+* kltekdi: SCL23
 
 ### Important links
 <p><a href="https://forum.xda-developers.com/galaxy-s5/unified-development/kernel-project-kltexxx-t3564206"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=177739"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/Nougat/change-logs.md"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic011.png?raw=true" alt="" width="35" height="35" /></a></p>
