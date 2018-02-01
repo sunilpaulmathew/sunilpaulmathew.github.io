@@ -7,6 +7,7 @@ permalink: /kernel-projects/
 * <a href="https://sunilpaulmathew.github.io/smartpack/">Main</a>
 * <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
 * <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
+* <a href="https://sunilpaulmathew.github.io/faq/">FAQ</a>
 
 <h3>Active Kernel Projects</h3>
 
