@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Dr. Sunil Paul Mathew M.
 description: "<strong>Professional affiliation</strong>:Researcher, Division of Environmental Science and Engineering, Pohang University of Science and Technology (POSTECH), 77 Cheongam-ro, Jigok-dong, Nam-gu, Pohang, Gyeongsangbuk-do, Republic of Korea."
+plugins:
+  - jekyll-seo-tag
