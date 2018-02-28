@@ -26,6 +26,6 @@ permalink: /contact/
 
 <h2>Donations</h2>
 <p style="text-align: justify;"><tab1>If anyone like to appreciate my work, please consider donating to me as it will help me to continue my projects more active.</tab1></p>
-<p style="text-align: center;"><tab1><strong>Please note</strong>: Donations are not at all necessary. It will neither give you any benefits nor issues from my side.</tab1></p>
+<p style="text-align: center;"><strong>Please note</strong>: Donations are not at all necessary. It will neither give you any benefits nor issues from my side.</p>
 
 <p><a href="https://www.paypal.me/sunilpaulmathew"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic005.png?raw=true" alt="" width="50" height="50" /></a></p>
