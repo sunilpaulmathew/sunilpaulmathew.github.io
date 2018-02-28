@@ -8,6 +8,7 @@ permalink: /faq/
 * <a href="https://sunilpaulmathew.github.io/kernel-projects/">Active Kernel Projects</a>
 * <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
 * <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
+* <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
 
 <h2>Frequently Asked Questions (FAQ)</h2>
 

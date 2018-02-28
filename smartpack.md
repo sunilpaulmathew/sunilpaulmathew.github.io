@@ -12,6 +12,7 @@ permalink: /smartpack/
 * <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
 * <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
 * <a href="https://sunilpaulmathew.github.io/faq/">FAQ</a>
+* <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
 
 <h2 style="text-align: center;">SmartPack Projects</h2>
 

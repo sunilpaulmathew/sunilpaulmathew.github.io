@@ -12,6 +12,7 @@ permalink: /kernel-projects/
 * <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
 * <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
 * <a href="https://sunilpaulmathew.github.io/faq/">FAQ</a>
+* <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
 
 <h3>Active Kernel Projects</h3>
 
