@@ -21,9 +21,23 @@ permalink: /kernel-projects/
 <h4>Supported devices</h4>
 * klte: SM-G900F, SM-G900V, SM-S902L
 * kltekor: SM-G900K/L/S
-* kltespr: SM-G900P/I
+* kltedv: SM-G900P/I
 * klteduos: SM-G900FD, SM-G900MD
 * kltekdi: SCL23
+
+<h4>Download latest kernel version</h4>
+* Nougat
+  * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-klte.zip?raw=true">klte</a>
+  * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltekor.zip?raw=true">kltekor</a>
+  * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltespr.zip?raw=true">kltespr</a>
+  * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">klteduos</a>
+  * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltekdi.zip?raw=true">kltekdi</a>
+* Oreo
+  * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-klte.zip?raw=true">klte</a>
+  * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-kltekor.zip?raw=true">kltekor</a>
+  * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-kltedv.zip?raw=true">kltedv</a>
+  * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">klteduos</a>
+  * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-kltekdi.zip?raw=true">kltekdi</a>
 
 ### Important links
 <p><a href="https://forum.xda-developers.com/galaxy-s5/unified-development/kernel-project-kltexxx-t3564206"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=177739"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/Nougat/change-logs.md"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic011.png?raw=true" alt="" width="35" height="35" /></a></p>
