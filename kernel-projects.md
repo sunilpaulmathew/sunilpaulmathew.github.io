@@ -26,13 +26,13 @@ permalink: /kernel-projects/
 * kltekdi: SCL23
 
 <h4>Download latest kernel version</h4>
-* <strong>Nougat</strong> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/Nougat/change-logs.md">Change-logs</a>
+* <strong>Nougat</strong> * <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/Nougat/change-logs.md">Change-logs</a> *
   * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-klte.zip?raw=true">klte</a>
   * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltekor.zip?raw=true">kltekor</a>
   * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltespr.zip?raw=true">kltespr</a>
   * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">klteduos</a>
   * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltekdi.zip?raw=true">kltekdi</a>
-* <strong>Oreo</strong> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/Nougat/change-logs.md">Change-logs</a>
+* <strong>Oreo</strong> * <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/Oreo/change-logs.md">Change-logs</a> *
   * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-klte.zip?raw=true">klte</a>
   * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-kltekor.zip?raw=true">kltekor</a>
   * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-kltedv.zip?raw=true">kltedv</a>
