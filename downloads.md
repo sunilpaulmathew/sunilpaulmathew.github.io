@@ -15,19 +15,19 @@ permalink: /downloads/
 * <a href="https://sunilpaulmathew.github.io/faq/">FAQ</a>
 * <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
 
-<h3>Kernel downloads (latest version)</h3>
+<h2>Downloads</h2>
 
 <h4>Samsung Galaxy S5</h4>
 
 <p>! <strong>SmartPack-Kernel for Lineage-OS 14.1 (Nougat)</strong> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/Nougat/change-logs.md">Change-logs</a> !</p>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-klte.zip?raw=true">klte</a>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltekor.zip?raw=true">kltekor</a>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltespr.zip?raw=true">kltespr</a>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">klteduos</a>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltekdi.zip?raw=true">kltekdi</a>
+* klte ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-klte.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227310">All builds</a>
+* kltekor ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltekor.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227315">All builds</a>
+* kltespr ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltespr.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227317">All builds</a>
+* klteduos ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227316">All builds</a>
+* kltekdi ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltekdi.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=251637">All builds</a>
 <p>! <strong>SmartPack-Kernel for Lineage-OS 15.1 (Oreo)</strong> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/Oreo/change-logs.md">Change-logs</a> !</p>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-klte.zip?raw=true">klte</a>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-kltekor.zip?raw=true">kltekor</a>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-kltedv.zip?raw=true">kltedv</a>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">klteduos</a>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-kltekdi.zip?raw=true">kltekdi</a>
+* klte ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-klte.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=241029">All builds</a>
+* kltekor ! <a href="https://androidfilehost.com/?w=files&flid=241029">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=241029">All builds</a>
+* kltedv ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-kltedv.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=241029">All builds</a>
+* klteduos ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=241029">All builds</a>
+* <kltekdi ! a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-kltekdi.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=241029">All builds</a>
