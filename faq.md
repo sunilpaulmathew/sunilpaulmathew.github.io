@@ -10,7 +10,7 @@ permalink: /faq/
 * <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
 * <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
 
-<h2>Frequently Asked Questions (FAQ)</h2>
+<h2 style="color: red; text-align: center">Frequently Asked Questions (FAQ)</h2>
 
 <p><strong>Q1</strong>: (kltexxx): I lost sound after installing your kernel. What should I do?</p>
 <p><strong>Ans</strong>: It is most likely due to some conflict between the kernel default settings and your local settings within the app. To solve this, you need to reboot your device after removing ‘Apply on boot’ from Sound menu.</p>

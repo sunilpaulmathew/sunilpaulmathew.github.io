@@ -14,16 +14,18 @@ permalink: /others/
 * <a href="https://sunilpaulmathew.github.io/faq/">FAQ</a>
 * <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
 
-<h3>Other Projects</h3>
+<h2 style="color: red; text-align: center">Other Projects</h2>
 
-<h4>1. SmartPack-Kernel Manager</h4>
+<h3 style="color: blue">1. SmartPack-Kernel Manager</h3>
+
 <p style="text-align: justify;"><tab1><strong>SmartPack-Kernel Manager</strong> is a modified version of official Kernel Adiutor, which is originally developed by Willi Ye aka Grarak. All the credits goes to the original developer. SmartPack-Kernel Manager has a set of additional features that are not yet implemented into the official KA.</tab1></p>
 ### Important links
 <p><a href="https://github.com/SmartPack/SmartPack-Kernel-Manager"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/latest"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a></p>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
-<h4>2. Stock International ROM for Samsung Galaxy S5 (Stock Marshmallow)</h4>
+<h3 style="color: blue">2. Stock International ROM for Samsung Galaxy S5 (Stock Marshmallow)</h3>
+
 <h4>Supported devices</h4>
 * klte: SM-G900F
 * kltekor: SM-G900K/L/S
@@ -34,7 +36,8 @@ permalink: /others/
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
-<h4>3. F-zip</h4>
+<h3 style="color: blue">3. F-zip</h3>
+
 <p style="text-align: justify;"><tab1><strong>F-zip</strong> is a universal shell script designed to make recovery flashable zip files within few simple steps.</tab1></p>
 <h4>Supported platforms</h4>
 

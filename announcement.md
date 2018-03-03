@@ -15,7 +15,7 @@ permalink: /announcements/
 * <a href="https://sunilpaulmathew.github.io/faq/">FAQ</a>
 * <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
 
-<h2>Announcements</h2>
+<h2 style="color: red; text-align: center">Announcements</h2>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 

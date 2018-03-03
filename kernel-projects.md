@@ -14,9 +14,9 @@ permalink: /kernel-projects/
 * <a href="https://sunilpaulmathew.github.io/faq/">FAQ</a>
 * <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
 
-<h3>Active Kernel Projects</h3>
+<h2 style="color: red; text-align: center">Active Kernel Projects</h2>
 
-<h4>1. SmartPack-Kernel for Samsung Galaxy S5 (Lineage-OS 14.1/15.1)</h4>
+<h3 style="color: blue">1. SmartPack-Kernel for Samsung Galaxy S5 (Lineage-OS 14.1/15.1)</h3>
 
 <h4>Supported devices</h4>
 * klte: SM-G900F, SM-G900V, SM-S902L
@@ -30,7 +30,7 @@ permalink: /kernel-projects/
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
-<h4>2. SmartPack-Kernel for Samsung Galaxy S5 (Stock Marshmallow)</h4>
+<h3 style="color: blue">2. SmartPack-Kernel for Samsung Galaxy S5 (Stock Marshmallow)</h3>
 
 <h4>Supported devices</h4>
 * klte: SM-G900F
@@ -43,7 +43,7 @@ permalink: /kernel-projects/
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
-<h4>3. Stock-Kernel (Linaro-7.x/UBERTC-8.x) for Samsung Galaxy S5 (Lineage-OS 14.1)</h4>
+<h3 style="color: blue">3. Stock-Kernel (Linaro-7.x/UBERTC-8.x) for Samsung Galaxy S5 (Lineage-OS 14.1)</h3>
 
 <h4>Supported devices</h4>
 * klte: SM-G900F, SM-G900V, SM-S902L
