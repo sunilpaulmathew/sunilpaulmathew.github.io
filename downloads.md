@@ -35,4 +35,10 @@ permalink: /downloads/
 * klteduos ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227316">All builds</a>
 * kltekdi ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltekdi.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=251637">All builds</a>
 
+<p>! <strong>SmartPack-Kernel for Samsung Stock (Marshmallow)</strong> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/stock/change-logs.md">Change-logs</a> !</p>
+* klte ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-klte.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177762">All builds</a>
+* kltekor ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-kltekor.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177764">All builds</a>
+* kltespr ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-kltespr.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177768">All builds</a>
+* klteduos ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177765">All builds</a>
+
 <p style="text-align: center;">*** *** *** *** ***</p>
