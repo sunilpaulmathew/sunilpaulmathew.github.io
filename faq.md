@@ -40,3 +40,5 @@ permalink: /faq/
 
 <p><strong>Q10</strong>: I found a bug, what do I do?</p>
 <p><strong>Ans</strong>: Please provide as much information as possible (such as what feature, what didn't work, screenshots or logcat if possible) and post in this thread.</p>
+
+<p style="text-align: center;">*** *** *** *** ***</p>
