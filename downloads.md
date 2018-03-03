@@ -15,7 +15,7 @@ permalink: /downloads/
 * <a href="https://sunilpaulmathew.github.io/faq/">FAQ</a>
 * <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
 
-<h2 style="text-align: center;">Downloads</h2>
+<h2 style="color: red; text-align: center">Downloads</h2>
 
 <h3>Samsung Galaxy S5</h3>
 
