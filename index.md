@@ -20,6 +20,16 @@
 * Chemical transformations in ice phase.
 * Fast kinetics of free radical reactions by Pulse radiolysis technique.
 
+<h4>Awards & Honours</h4>
+* Senior Research Fellowship (SRF) by Council of Scientific and Industrial Research (CSIR), Govt. of India (2014)
+* “Dr. Hari Mohan memorial award” for the best poster in Trombay Symposium on Radiation and Photochemistry (TSRP 2014) held on January 6-9, 2014 at Mumbai, India
+* Selected as an "International visiting student" by Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea, for a period of one year (2014)
+
+<h4>Reviewer of Internationa journals</h4>
+* Served as a reviewer of 
+  * Catalysis Today (Elsevier)
+  * Environemntal Science and Pollution Research (Springer)
+
 <h4>Publications</h4>
 <p><strong>Sunil Paul</strong>, M. M.; Aravind, U. K.; Pramod, G.; Aravindakumar, C. T., Oxidative degradation of fensulfothion by hydroxyl radical in aqueous medium. Chemosphere 2013, 91, (3), 295-301.</p>
 <p>Sreekanth, R.; Prasanthkumar, K. P.; <strong>Sunil Pau1, M. M.</strong>; Aravind, U. K.; Aravindakumar, C. T.; Oxidation Reactions of 1- and 2-Naphthols: An Experimental and Theoretical Study. J. Phys. Chem. A, 2013, 117 (44), 11261–11270.</p>
