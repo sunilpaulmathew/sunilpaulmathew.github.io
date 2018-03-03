@@ -48,9 +48,7 @@ permalink: /downloads/
 <p style="text-align: center;">*** *** *** *** ***</p>
 
 <p>! <strong>Stock-Kernel (Linaro-7.x/UBERTC-8.x) for Lineage-OS 14.1 (Nougat)</strong> ! <a href="https://raw.githubusercontent.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/Nougat/change-logs.md">Change-logs</a> !</p>
-* klte 
-  * <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-klte-linaro.zip?raw=true">Latest linaro build</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-klte-ubertc.zip?raw=true">Latest ubertc build</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases">All builds</a>
-* kltekor
-  * <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-kltekor-linaro.zip?raw=true">Latest linaro build</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-kltekor-ubertc.zip?raw=true">Latest ubertc build</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases">All builds</a>
+* klte ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-klte-linaro.zip?raw=true">Latest linaro build</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-klte-ubertc.zip?raw=true">Latest ubertc build</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases">All builds</a>
+* kltekor ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-kltekor-linaro.zip?raw=true">Latest linaro build</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-kltekor-ubertc.zip?raw=true">Latest ubertc build</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases">All builds</a>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
