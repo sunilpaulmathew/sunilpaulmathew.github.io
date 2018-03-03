@@ -28,6 +28,12 @@ permalink: /contact/
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
+<h2>Special note to other developers</h2>
+
+<p style="text-align: justify;"><tab1>Feel free to take anything from my work if you found useful. Giving proper credits to the original developers (including me, if you considered me as one among them) are, however, highly appreciated. Feel free to contact me, if you need any assistance from my side.</tab1></p>
+
+<p style="text-align: center;">*** *** *** *** ***</p>
+
 <h2>Donations</h2>
 <p style="text-align: justify;"><tab1>If anyone like to appreciate my work, please consider donating to me as it will help me to continue my projects more active.</tab1></p>
 
