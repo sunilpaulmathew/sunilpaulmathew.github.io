@@ -26,9 +26,8 @@
 * Selected as an "International visiting student" by Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea, for a period of one year (2014)
 
 <h4>Reviewer of Internationa journals</h4>
-* Served as a reviewer of 
-  * Catalysis Today (Elsevier)
-  * Environemntal Science and Pollution Research (Springer)
+* Catalysis Today (Elsevier)
+* Environemntal Science and Pollution Research (Springer)
 
 <h4>Publications</h4>
 <p><strong>Sunil Paul</strong>, M. M.; Aravind, U. K.; Pramod, G.; Aravindakumar, C. T., Oxidative degradation of fensulfothion by hydroxyl radical in aqueous medium. Chemosphere 2013, 91, (3), 295-301.</p>
