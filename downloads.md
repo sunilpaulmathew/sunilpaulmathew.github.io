@@ -17,7 +17,7 @@ permalink: /downloads/
 
 <h2 style="color: red; text-align: center">Downloads</h2>
 
-<h3>Samsung Galaxy S5</h3>
+<h3 style="color: blue">Samsung Galaxy S5</h3>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
