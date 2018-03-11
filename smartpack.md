@@ -1,6 +1,6 @@
 ---
 layout: smartpack
-title: SmartPack
+title: SmartPack Projects
 permalink: /smartpack/
 ---
 
