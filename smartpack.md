@@ -24,8 +24,6 @@ permalink: /smartpack/
 
 ### Please read this before download/flash anything from this site. 
 
-* I am <strong>NOT</strong> responsible for any damage to your device.
-
 * Everything you are doing on your device is at your own risk.
 
 * I will <strong>NOT</strong> take any responsibility if something wrong happened to your device.
