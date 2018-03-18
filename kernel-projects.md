@@ -53,3 +53,14 @@ permalink: /kernel-projects/
 <p><a href="https://forum.xda-developers.com/galaxy-s5/unified-development/linaro-7-x-ubertc-8-x-stock-kernel-t3706808"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases/latest"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/Nougat/change-logs.md"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic011.png?raw=true" alt="" width="35" height="35" /></a></p>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
+
+<h3 style="color: blue">4. Boeffla-Kernel (unofficial) for Samsung Galaxy S5 (Lineage-OS 15.1)</h3>
+
+<h4>Supported devices</h4>
+* klte: SM-G900F, SM-G900V, SM-S902L
+* kltekor: SM-G900K/L/S
+
+### Important links
+<p><a href="https://forum.xda-developers.com/galaxy-s5/orig-development/boeffla-kernel-unofficial-lineage-os-15-t3764497"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://forum.xda-developers.com/devdb/project/?id=25825#downloads"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/Oreo/change-logs.md"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic011.png?raw=true" alt="" width="35" height="35" /></a></p>
+
+<p style="text-align: center;">*** *** *** *** ***</p>
