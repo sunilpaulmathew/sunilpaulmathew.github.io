@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 <h3 style="color: blue; text-align: left;">Research career</h3>
 <style>
     tab1 { padding-left: 4em; }
