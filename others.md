@@ -20,7 +20,7 @@ permalink: /others/
 
 <p style="text-align: justify;"><tab1><strong>SmartPack-Kernel Manager</strong> is a modified version of official Kernel Adiutor, which is originally developed by Willi Ye aka Grarak. All the credits goes to the original developer. SmartPack-Kernel Manager has a set of additional features that are not yet implemented into the official KA.</tab1></p>
 ### Important links
-<p><a href="https://github.com/SmartPack/SmartPack-Kernel-Manager"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/latest"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://github.com/SmartPack/SmartPack-Kernel-Manager" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/latest" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a></p>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
@@ -32,7 +32,7 @@ permalink: /others/
 * kltedcm: SC-04F
 
 ### Important links
-<p><a href="https://forum.xda-developers.com/galaxy-s5/development/stock-international-rom-kltekor-t3720407"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://androidfilehost.com/?w=files&flid=235738"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://forum.xda-developers.com/galaxy-s5/development/stock-international-rom-kltekor-t3720407" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://androidfilehost.com/?w=files&flid=235738" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a></p>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
@@ -45,6 +45,6 @@ permalink: /others/
 * Android
 
 ### Important links
-<p><a href="https://github.com/SmartPack/f-zip"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://github.com/SmartPack/f-zip/releases/latest"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://github.com/SmartPack/f-zip" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://github.com/SmartPack/f-zip/releases/latest" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a></p>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
