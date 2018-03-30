@@ -8,11 +8,6 @@ permalink: /research/
     tab1 { padding-left: 4em; }
 </style>
 
-* <a href="https://sunilpaulmathew.github.io/">Home</a>
-* <a href="https://sunilpaulmathew.github.io/research/">Research career</a>
-* <a href="https://sunilpaulmathew.github.io/publications/">Publications</a>
-* <a href="https://sunilpaulmathew.github.io/awards/">Awards & Honours</a>
-
 <h3 style="color: blue; text-align: left;">Research career</h3>
 
 <p style="text-align: justify;"><tab1><strong>Dr. Sunil</strong> is presently associated with the research group of <a href="https://epa.postech.ac.kr/body/body_3/body_3_1.html" target="_blank">Prof. Wonyong Choi</a> <a href="http://www.postech.ac.kr/eng/" target="_blank">(Pohang University of Science and Technology (POSTECH)</a>, Republic of Korea as a Postdoctoral Researcher. He received his bachelor (Chemistry) and master (Pharmaceutical chemistry) degrees from <a href="https://www.mgu.ac.in" target="_blank">Mahatma Gandhi University</a>, Kottayam in 2006 and 2008 respectively. He joined <a href="http://www.indianspices.com" target="_blank">Spices Board of India</a>, Kochi, Kerala, as a trainee analyst immediately after receiving the master degree. During this tenure in spices board, he was involved in the analysis of various spices and spice products for different quality parameters. This work involves the use of highly sophisticated analytical instrumentation techniques including High-Performance Liquid Chromatography (HPLC), Gas Chromatography (GC), Atomic Absorption Spectroscopy (AAS), LC-MS/MS etc. He joined as a project fellow (funded by UGC-DAE CSR, Kolkata) in the group of <a href="http://www.ctamgu.in/home/" target="_blank">Prof. C. T. Aravindakumar</a> (School of Environmental Sciences, Mahatma Gandhi University, Kottayam) after a national level interview (2010). Later (2011), he became a Ph.D. student in the same institute under the joint guidance of Prof. Aravindakumar and Dr. G. Pramod (Principal, N.S.S. College, Nemmara).</tab1></p>

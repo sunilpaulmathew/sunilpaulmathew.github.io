@@ -1,17 +1,12 @@
 ---
 layout: default
-title: Awards & Honours
-permalink: /awards/
+title: Achievements
+permalink: /achievements/
 ---
 
 <style>
     tab1 { padding-left: 4em; }
 </style>
-
-* <a href="https://sunilpaulmathew.github.io/">Home</a>
-* <a href="https://sunilpaulmathew.github.io/research/">Research career</a>
-* <a href="https://sunilpaulmathew.github.io/publications/">Publications</a>
-* <a href="https://sunilpaulmathew.github.io/awards/">Awards & Honours</a>
 
 <h3 style="color: blue; text-align: left;">Awards & Honours</h3>
 

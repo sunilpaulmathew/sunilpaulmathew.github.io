@@ -51,7 +51,7 @@ permalink: /downloads/
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
-<p>! <strong>Boeffla-Kernel (unofficial) for Lineage-OS 15.1 (Oreo)</strong> ! <a href="https://raw.githubusercontent.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/Oreo/change-logs.md" target="_blank">Change-logs</a> ! <a href="http://kernel.boeffla.de/bcv2/">Boeffla-Config App</a> !</p>
+<p>! <strong>Boeffla-Kernel (unofficial) for Lineage-OS 15.1 (Oreo)</strong> ! <a href="https://raw.githubusercontent.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/Oreo/change-logs.md" target="_blank">Change-logs</a> ! <a href="http://kernel.boeffla.de/bcv2/" target="_blank">Boeffla-Config App</a> !</p>
 * klte ! <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/blob/Oreo/kernel-release/Boeffla-Kernel-klte.zip?raw=true">Latest build</a> ! <a href="https://forum.xda-developers.com/devdb/project/?id=25825#downloads" target="_blank">All builds</a>
 * kltekor ! <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/blob/Oreo/kernel-release/Boeffla-Kernel-kltekor.zip?raw=true">Latest build</a> ! <a href="https://forum.xda-developers.com/devdb/project/?id=25825#downloads" target="_blank">All builds</a>
 

@@ -8,11 +8,6 @@ permalink: /publications/
     tab1 { padding-left: 4em; }
 </style>
 
-* <a href="https://sunilpaulmathew.github.io/">Home</a>
-* <a href="https://sunilpaulmathew.github.io/research/">Research career</a>
-* <a href="https://sunilpaulmathew.github.io/publications/">Publications</a>
-* <a href="https://sunilpaulmathew.github.io/awards/">Awards & Honours</a>
-
 <h3 style="color: blue; text-align: left;">Publications</h3>
 
 <p><strong>Sunil Paul</strong>, M. M.; Aravind, U. K.; Pramod, G.; Aravindakumar, C. T., Oxidative degradation of fensulfothion by hydroxyl radical in aqueous medium. Chemosphere 2013, 91, (3), 295-301.</p>
