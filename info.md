@@ -20,4 +20,4 @@ permalink: /info/
 
 <p><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic017.png?raw=true" alt="" width="25" height="25" /> sunil.kde@gmail.com</p>
 
-<p><a href="https://www.researchgate.net/profile/Sunil_M2" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic020.png?raw=true" alt="" width="25" height="25" /></a> <a href="https://www.researchgate.net/profile/Sunil_M2">ResearchGate Profile</a></p>
+<p><a href="https://www.researchgate.net/profile/Sunil_M2" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic020.png?raw=true" alt="" width="25" height="25" /></a> <a href="https://www.researchgate.net/profile/Sunil_M2" target="_blank">ResearchGate Profile</a></p>
