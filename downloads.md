@@ -19,7 +19,9 @@ permalink: /downloads/
 
 <h3 style="color: blue">General</h3>
 
-<p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/latest" target="_blank">Download latest app version</a> !</p>
+<p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/latest" target="_blank">Download</a> !</p>
+
+<p style="text-align: center;">*** *** *** *** ***</p>
 
 <h3 style="color: blue">Samsung Galaxy S5</h3>
 
