@@ -19,7 +19,7 @@ permalink: /downloads/
 
 <h3 style="color: blue">General</h3>
 
-<p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/latest" target="_blank">Download</a> !</p>
+<p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/latest" target="_blank">Download</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> !</p>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
