@@ -17,6 +17,10 @@ permalink: /downloads/
 
 <h2 style="color: red; text-align: center">Downloads</h2>
 
+<h3 style="color: blue">General</h3>
+
+<p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/latest" target="_blank">Download latest app version</a> !</p>
+
 <h3 style="color: blue">Samsung Galaxy S5</h3>
 
 <p>! <strong>SmartPack-Kernel for Lineage-OS 15.1 (Oreo)</strong> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/Oreo/change-logs.md" target="_blank">Change-logs</a> !</p>
