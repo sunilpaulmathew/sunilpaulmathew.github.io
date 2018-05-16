@@ -20,17 +20,24 @@ permalink: /others/
 
 <p style="text-align: justify;"><tab1><strong>SmartPack-Kernel Manager</strong> is a modified version of official Kernel Adiutor, which is originally developed by Willi Ye aka Grarak. All the credits goes to the original developer. SmartPack-Kernel Manager has a set of additional features that are not yet implemented into the official KA.</tab1></p>
 
+<p style="text-align: center;"><a href="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic021.jpg?raw=true" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic021.jpg?raw=true" alt="" width="500" height="422" /></a></p>
+
 ### Added features over official KA
-* Advanced Charge Control Interface for yank555.lu's Fast Charge
+* Advanced Charge Control Interface for yank555.lu's Fast Charge & Boeffla Charge Level Interface
+* Spectrum support in-built
 * CPU Input Boost (Sultanxda) Control
+* Boeffla Sound
+* LED Blink/Fade support
 * Display Backlight Control
 * SELinux Switch
+* Boeffla Wakelock Blocker Driver Control
 * Real-time Charging Status
+* Auto-updates (in *About* page)
 * Significantly modified (for SmartPack-Kernel) OTA implementation
 * Dedicated Frequently Asked Questions (FAQ) section for SmartPack-Kernel (Manager)
 
 ### Important links
-<p><a href="https://github.com/SmartPack/SmartPack-Kernel-Manager" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/latest" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://github.com/SmartPack/SmartPack-Kernel-Manager" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/latest" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic011.png?raw=true" alt="" width="35" height="35" /></a></p>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
