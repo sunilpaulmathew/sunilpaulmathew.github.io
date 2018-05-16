@@ -20,7 +20,7 @@ permalink: /others/
 
 <p style="text-align: justify;"><tab1><strong>SmartPack-Kernel Manager</strong> is a modified version of official Kernel Adiutor, which is originally developed by Willi Ye aka Grarak. All the credits goes to the original developer. SmartPack-Kernel Manager has a set of additional features that are not yet implemented into the official KA.</tab1></p>
 
-<p style="text-align: center;"><a href="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic021.jpg?raw=true" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic021.jpg?raw=true" alt="" width="500" height="422" /></a></p>
+<p style="text-align: center;"><a href="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic021.jpg?raw=true" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic021.jpg?raw=true" alt="" width="422" height="500" /></a></p>
 
 ### Added features over official KA
 * Advanced Charge Control Interface for yank555.lu's Fast Charge & Boeffla Charge Level Interface
