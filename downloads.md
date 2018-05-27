@@ -61,5 +61,6 @@ permalink: /downloads/
 * klte ! <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/blob/Oreo/kernel-release/Boeffla-Kernel-klte.zip?raw=true">Latest build</a> ! <a href="https://forum.xda-developers.com/devdb/project/?id=25825#downloads" target="_blank">All builds</a>
 * kltekor ! <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/blob/Oreo/kernel-release/Boeffla-Kernel-kltekor.zip?raw=true">Latest build</a> ! <a href="https://forum.xda-developers.com/devdb/project/?id=25825#downloads" target="_blank">All builds</a>
 * klteduos ! <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/blob/Oreo/kernel-release/Boeffla-Kernel-klteduos.zip?raw=true">Latest build</a> ! <a href="https://forum.xda-developers.com/devdb/project/?id=25825#downloads" target="_blank">All builds</a>
+* kltekdi ! <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/blob/Oreo/kernel-release/Boeffla-Kernel-kltekdi.zip?raw=true">Latest build</a> ! <a href="https://forum.xda-developers.com/devdb/project/?id=25825#downloads" target="_blank">All builds</a>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
