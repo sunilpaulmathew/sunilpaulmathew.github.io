@@ -36,11 +36,11 @@ permalink: /downloads/
 <p style="text-align: center;">*** *** *** *** ***</p>
 
 <p>! <strong>SmartPack-Kernel for Lineage-OS 14.1 (Nougat)</strong> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/Nougat/change-logs.md" target="_blank">Change-logs</a> !</p>
-* klte ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-klte.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227310" target="_blank">All builds</a>
-* kltekor ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltekor.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227315" target="_blank">All builds</a>
-* kltespr ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltespr.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227317" target="_blank">All builds</a>
-* klteduos ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227316" target="_blank">All builds</a>
-* kltekdi ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltekdi.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=251637" target="_blank">All builds</a>
+* klte ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-klte.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227310" target="_blank">All builds</a>
+* kltekor ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltekor.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227315" target="_blank">All builds</a>
+* kltespr ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltespr.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227317" target="_blank">All builds</a>
+* klteduos ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227316" target="_blank">All builds</a>
+* kltekdi ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltekdi.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=251637" target="_blank">All builds</a>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
