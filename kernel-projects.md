@@ -59,6 +59,7 @@ permalink: /kernel-projects/
 <h4>Supported devices</h4>
 * klte: SM-G900F, SM-G900V, SM-S902L
 * kltekor: SM-G900K/L/S
+* kltedv: SM-G900I/P
 * klteduos: SM-G900FD, SM-G900MD
 * kltekdi: SCL23
 
