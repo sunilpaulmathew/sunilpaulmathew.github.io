@@ -43,14 +43,14 @@ permalink: /kernel-projects/
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
-<h3 style="color: blue">3. Stock-Kernel (Linaro-7.x/UBERTC-8.x) for Samsung Galaxy S5 (Lineage-OS 14.1)</h3>
+<h3 style="color: blue">3. Stock-Kernel (Linaro-7.x/UBERTC-8.x) for Samsung Galaxy S5 (Lineage-OS 14.1/15.1)</h3>
 
 <h4>Supported devices</h4>
 * klte: SM-G900F, SM-G900V, SM-S902L
 * kltekor: SM-G900K/L/S
 
 ### Important links
-<p><a href="https://forum.xda-developers.com/galaxy-s5/unified-development/linaro-7-x-ubertc-8-x-stock-kernel-t3706808" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases/latest" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/Nougat/change-logs.md" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic011.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://forum.xda-developers.com/galaxy-s5/unified-development/linaro-7-x-ubertc-8-x-stock-kernel-t3706808" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases/latest" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/Oreo/change-logs.md" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic011.png?raw=true" alt="" width="35" height="35" /></a></p>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
