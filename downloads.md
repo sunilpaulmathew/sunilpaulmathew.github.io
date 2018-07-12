@@ -56,12 +56,10 @@ permalink: /downloads/
 * klte ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Oreo/kernel-release/Stock-Kernel-klte-linaro.zip?raw=true">Latest linaro build (Oreo)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Oreo/kernel-release/Stock-Kernel-klte-ubertc.zip?raw=true">Latest ubertc build (Oreo)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases" target="_blank">All builds</a>
 * kltekor ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Oreo/kernel-release/Stock-Kernel-kltekor-linaro.zip?raw=true">Latest linaro build (Oreo)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Oreo/kernel-release/Stock-Kernel-kltekor-ubertc.zip?raw=true">Latest ubertc build (Oreo)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases" target="_blank">All builds</a>
 
-<p style="text-align: left;">*** *** *** *** ***</p>
+<p style="text-align: center;">! Nougat builds !</p>
 
-<p>! Nougat builds</p>
-
-* klte ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-klte-linaro.zip?raw=true">Final linaro build (Nougat)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-klte-ubertc.zip?raw=true">Final ubertc build (Nougat)</a>
-* kltekor ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-kltekor-linaro.zip?raw=true">Final linaro build (Nougat)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-kltekor-ubertc.zip?raw=true">Final ubertc build (Nougat)</a>
+* klte ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-klte-linaro.zip?raw=true">Final linaro build</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-klte-ubertc.zip?raw=true">Final ubertc build</a>
+* kltekor ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-kltekor-linaro.zip?raw=true">Final linaro build</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-kltekor-ubertc.zip?raw=true">Final ubertc build</a>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
