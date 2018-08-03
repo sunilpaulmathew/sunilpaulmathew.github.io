@@ -4,6 +4,12 @@ title: Frequently Asked Questions (FAQ)
 permalink: /faq/
 ---
 
+* <a href="https://sunilpaulmathew.github.io/smartpack/">Main</a>
+* <a href="https://sunilpaulmathew.github.io/kernel-projects/">Active Kernel Projects</a>
+* <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
+* <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
+* <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
+
 <h2 style="color: red; text-align: center">Frequently Asked Questions (FAQ)</h2>
 
 <p><strong>Q1</strong>: (kltexxx): I lost sound after installing your kernel. What should I do?</p>

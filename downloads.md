@@ -8,6 +8,13 @@ permalink: /downloads/
     tab1 { padding-left: 4em; }
 </style>
 
+* <a href="https://sunilpaulmathew.github.io/smartpack/">Main</a>
+* <a href="https://sunilpaulmathew.github.io/kernel-projects/">Active Kernel Projects</a>
+* <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
+* <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
+* <a href="https://sunilpaulmathew.github.io/faq/">FAQ</a>
+* <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
+
 <h2 style="color: red; text-align: center">Downloads</h2>
 
 <h3 style="color: blue">General</h3>
