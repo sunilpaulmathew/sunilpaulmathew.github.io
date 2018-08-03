@@ -8,12 +8,6 @@ permalink: /smartpack/
     tab1 { padding-left: 4em; }
 </style>
 
-* <a href="https://sunilpaulmathew.github.io/kernel-projects/">Active Kernel Projects</a>
-* <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
-* <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
-* <a href="https://sunilpaulmathew.github.io/faq/">FAQ</a>
-* <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
-
 <h2 style="color: red; text-align: center">SmartPack Projects</h2>
 
 <p style="text-align: justify;"><tab1><strong>SmartPack</strong> (mainly Kernel) projects are aimed to improve the efficiency of our beloved Android devices without compromising the stability and the day-by-day usability. The project currently supports almost all the Qualcomm Snapdragon 801 variants of Samsung Galaxy S5.</tab1></p>

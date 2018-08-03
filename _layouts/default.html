@@ -1,48 +1,61 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
 
-{% seo %}
-
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+
+{% seo %}
   </head>
+
   <body>
-    <div class="wrapper">
-      <header>
-	<p style="text-align: center;"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic001.png?raw=true" alt="" width="175" height="175" /></p>
-        <a href="{{ site.github.url }}"> <h3 style="text-align: center;">{{ site.title | default: site.github.repository_name }}</h3> </a>
-        <p style="text-align: left;">{{ site.description | default: site.github.project_tagline }}</p>
-        <p style="text-align: center;"><a href="https://sunilpaulmathew.github.io/"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic013.png?raw=true" alt="" width="65" height="65" /></a> <a href="https://sunilpaulmathew.github.io/achievements/"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic016.png?raw=true" alt="" width="65" height="65" /></a> <a href="https://sunilpaulmathew.github.io/info/"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic019.png?raw=true" alt="" width="65" height="65" /></a></p>
-        <p style="text-align: center;"><a href="https://sunilpaulmathew.github.io/research/"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic014.png?raw=true" alt="" width="75" height="75" /></a> <a href="https://sunilpaulmathew.github.io/publications/"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic015.png?raw=true" alt="" width="75" height="75" /></a></p>
-        {% if site.github.is_user_page %}
+    <header>
+      <div class="inner">
+          <h1>Welcome</h1>
+        </a>
+        <h2>to the home page of Dr. Sunil</h2>
+        {% if site.github.is_project_page %}
         {% endif %}
-	<p style="text-align: center;"><small>Idea & design: Aswathy Luckose</small></p>
-      </header>
-      <section>
+      </div>
+    </header>
 
-      {{ content }}
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          {{ content }}
+        </section>
 
-      </section>
+        <aside id="sidebar">
 
+            <p style="text-align: left;"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/assets/pic001.png?raw=true" alt="" width="175" height="175" /></p>
+            <h3>Dr. Sunil Paul Mathew M.</h3>
+            <p><strong>Professional affiliation:</strong> <strong>POSTECH</strong>, Pohang, Republic of Korea</p>
+		<p><a href="{{ '/' | absolute_url }}"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/assets/pic013.png?raw=true" alt="" width="25" height="25" /></a> <a href="{{ '/' | absolute_url }}"><strong>Home</strong></a></p>
+		<p><a href="{{ '/research' | absolute_url }}"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/assets/pic014.png?raw=true" alt="" width="25" height="25" /></a> <a href="{{ '/research' | absolute_url }}"><strong>Research career</strong></a></p>
+		<p><a href="{{ '/publications' | absolute_url }}"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/assets/pic015.png?raw=true" alt="" width="25" height="25" /></a> <a href="{{ '/publications' | absolute_url }}"><strong>Publications</strong></a></p>
+		<p><a href="{{ '/achievements' | absolute_url }}"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/assets/pic016.png?raw=true" alt="" width="25" height="25" /></a> <a href="{{ '/achievements' | absolute_url }}"><strong>Achievements</strong></a></p>
+		<p><a href="{{ '/info' | absolute_url }}"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/assets/pic019.png?raw=true" alt="" width="25" height="25" /></a> <a href="{{ '/info' | absolute_url }}"><strong>Contact Me</strong></a></p>
+
+          <p style="text-align: left;"><small>Idea & design: Aswathy Luckose</small></p>
+        </aside>
+      </div>
     </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
-  {% if site.google_analytics %}
-    <script>
+    {% if site.google_analytics %}
+      <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
         ga('create', '{{ site.google_analytics }}', 'auto');
         ga('send', 'pageview');
-    </script>
-  {% endif %}
+      </script>
+    {% endif %}
   </body>
 </html>

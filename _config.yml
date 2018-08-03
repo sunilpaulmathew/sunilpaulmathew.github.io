@@ -1,5 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect 
 title: Dr. Sunil Paul Mathew M.
-description: "<strong>Professional affiliation:</strong> <strong>POSTECH</strong>, Pohang, Republic of Korea."
 plugins:
   - jekyll-seo-tag
