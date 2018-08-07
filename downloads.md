@@ -52,9 +52,9 @@ permalink: /downloads/
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
-<p>! <strong>Stock-Kernel (Linaro-7.x/UBERTC-8.x) for Lineage-OS 14.1/15.1 (Nougat/Oreo)</strong> ! <a href="https://raw.githubusercontent.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/Oreo/change-logs.md" target="_blank">Change-logs</a> !</p>
-* klte ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Oreo/kernel-release/Stock-Kernel-klte-linaro.zip?raw=true">Latest linaro build (Oreo)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Oreo/kernel-release/Stock-Kernel-klte-ubertc.zip?raw=true">Latest ubertc build (Oreo)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases" target="_blank">All builds</a>
-* kltekor ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Oreo/kernel-release/Stock-Kernel-kltekor-linaro.zip?raw=true">Latest linaro build (Oreo)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Oreo/kernel-release/Stock-Kernel-kltekor-ubertc.zip?raw=true">Latest ubertc build (Oreo)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases" target="_blank">All builds</a>
+<p>! <strong>Stock-Kernel (GCC-7.x/8.x) for Lineage-OS 14.1/15.1 (Nougat/Oreo)</strong> ! <a href="https://raw.githubusercontent.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/Oreo/change-logs.md" target="_blank">Change-logs</a> !</p>
+* klte ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Oreo/kernel-release/Stock-Kernel-klte-linaro.zip?raw=true">Latest GCC-7.x build (Oreo)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Oreo/kernel-release/Stock-Kernel-klte-ubertc.zip?raw=true">Latest GCC-8.x build (Oreo)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases" target="_blank">All builds</a>
+* kltekor ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Oreo/kernel-release/Stock-Kernel-kltekor-linaro.zip?raw=true">Latest GCC-7.x build (Oreo)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Oreo/kernel-release/Stock-Kernel-kltekor-ubertc.zip?raw=true">Latest GCC-8.x build (Oreo)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases" target="_blank">All builds</a>
 
 <p style="text-align: center;">! Nougat builds !</p>
 

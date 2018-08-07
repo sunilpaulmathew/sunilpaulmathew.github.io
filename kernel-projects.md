@@ -43,7 +43,7 @@ permalink: /kernel-projects/
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
-<h3 style="color: blue">3. Stock-Kernel (Linaro-7.x/UBERTC-8.x) for Samsung Galaxy S5 (Lineage-OS 14.1/15.1)</h3>
+<h3 style="color: blue">3. Stock-Kernel (GCC-7.x/8.x) for Samsung Galaxy S5 (Lineage-OS 14.1/15.1)</h3>
 
 <h4>Supported devices</h4>
 * klte: SM-G900F, SM-G900V, SM-S902L
