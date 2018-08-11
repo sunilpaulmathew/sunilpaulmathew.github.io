@@ -45,10 +45,10 @@ permalink: /downloads/
 <p style="text-align: center;">*** *** *** *** ***</p>
 
 <p>! <strong>SmartPack-Kernel for Samsung Stock (Marshmallow)</strong> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/stock/change-logs.md" target="_blank">Change-logs</a> !</p>
-* klte ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-klte.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177762" target="_blank">All builds</a>
-* kltekor ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-kltekor.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177764" target="_blank">All builds</a>
-* kltespr ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-kltespr.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177768" target="_blank">All builds</a>
-* klteduos ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177765" target="_blank">All builds</a>
+* klte ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-klte.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177762" target="_blank">All builds</a>
+* kltekor ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-kltekor.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177764" target="_blank">All builds</a>
+* kltespr ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-kltespr.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177768" target="_blank">All builds</a>
+* klteduos ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177765" target="_blank">All builds</a>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
