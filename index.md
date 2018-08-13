@@ -17,7 +17,9 @@ title: Home
 
 <p style="text-align: justify;"><tab1>Besides my research activities, I am also interested in Linux & Android, Photography, Photo-designing, Traveling, Music, Sports etc. In my spare time, I like to involve in the development of Android operating system and other opensource platforms. My interests and contributions to the Android world have been found on this <a href="https://sunilpaulmathew.github.io/smartpack" target="_blank">page</a>.</tab1></p>
 
-<h3 style="color: blue; text-align: left;">Latest news</h3>
+<h3 style="color: blue; text-align: center;">Latest news</h3>
+
+<p style="color: red; text-align: left;">Aug. 13, 2018: <a href="https://www.sciencedirect.com/science/article/pii/S0301010418306980" target="_blank">New article in Chemical Physics, Elsevier.</a></p>
 
 <h4><a href="https://www.sciencedirect.com/science/article/pii/S0301010418306980" target="_blank">Exploring the Mechanism of Diphenylmethanol Oxidation: A Combined Experimental and Theoretical Approach</a></h4>
 
@@ -25,4 +27,4 @@ title: Home
 
 <h4 style="color: red; text-align: left;">Graphical abstract</h4>
 
-<p style="color: blue; text-align: center;"><a href="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic023.jpg?raw=true" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic023.jpg?raw=true" alt="" width="500" height="360" /></a></p>
+<p style="color: blue; text-align: center;"><a href="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic023.jpg?raw=true" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic023.jpg?raw=true" alt="" width="500" height="230" /></a></p>
