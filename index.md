@@ -19,11 +19,11 @@ title: Home
 
 <h3 style="color: blue; text-align: center;">Latest news</h3>
 
-<p style="color: red; text-align: left;">Aug. 13, 2018: <a href="https://www.sciencedirect.com/science/article/pii/S0301010418306980" target="_blank">New article in Chemical Physics, Elsevier.</a></p>
+<p style="color: red; text-align: left;"><strong>Aug. 14, 2018: New article published in Chemical Physics, Elsevier.</strong></p>
 
 <h4><a href="https://www.sciencedirect.com/science/article/pii/S0301010418306980" target="_blank">Exploring the Mechanism of Diphenylmethanol Oxidation: A Combined Experimental and Theoretical Approach</a></h4>
 
-<p><strong>Sunil Paul M. Menachery</strong>, Thao P. Nguyen, Gopinathan Pramod, Usha K. Aravind, Charuvila T. Aravindakumar</p>
+<p><strong>Sunil Paul M. Menachery</strong>, Thao P. Nguyen, Pramod Gopinathan, Usha K. Aravind, Charuvila T. Aravindakumar</p>
 
 <h4 style="color: red; text-align: left;">Graphical abstract</h4>
 
