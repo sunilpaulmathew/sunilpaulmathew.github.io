@@ -45,7 +45,7 @@ permalink: /op5t/
 * a lot more...
 
 <h3 style="color: blue">How-to</h3>
-<p>Direct download from SmartPack-Kernel Manager or from my this page &</p>
+<p>Direct download from SmartPack-Kernel Manager or from the below link &</p>
 * Go to TWRP
 * Flash Kernel
 * Reboot and enjoy
