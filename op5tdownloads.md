@@ -39,7 +39,7 @@ permalink: /op5t/
 * USB charging rate bumped up to 900 mA
 * LED blink/fade control
 * KCAL v2 advanced color control interface
-* SELinux "Enforcing" by default (but can be switched to "Permissive" in SmartPack-Kernel Manager)</p>
+* SELinux "Enforcing" by default (but can be switched to "Permissive" in SmartPack-Kernel Manager)
 * FSync on/off support
 * CRC on/off support (disabled by default)
 * a lot more...
