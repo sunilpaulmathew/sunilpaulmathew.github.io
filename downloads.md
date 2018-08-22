@@ -1,6 +1,6 @@
 ---
 layout: smartpack
-title: Downloads
+title: Samsung Galaxy S5
 permalink: /downloads/
 ---
 

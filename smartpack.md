@@ -16,7 +16,9 @@ permalink: /smartpack/
 
 <h2 style="color: red; text-align: center">SmartPack Projects</h2>
 
-<p style="text-align: justify;"><tab1><strong>SmartPack</strong> (mainly Kernel) projects are aimed to improve the efficiency of our beloved Android devices without compromising the stability and the day-by-day usability. The project currently supports almost all the Qualcomm Snapdragon 801 variants of Samsung Galaxy S5.</tab1></p>
+<p style="text-align: justify;"><tab1><strong>SmartPack</strong> (mainly Kernel) projects are aimed to improve the efficiency of our beloved Android devices without compromising the stability and the day-by-day usability. The project currently supports the following devices.</tab1></p>
+* OnePlus 5T
+* Samsung Galaxy S5 (Qualcomm Snapdragon 801 variants).
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
