@@ -16,7 +16,17 @@ permalink: /kernel-projects/
 
 <h2 style="color: red; text-align: center">Active Kernel Projects</h2>
 
-<h3 style="color: blue">1. SmartPack-Kernel for Samsung Galaxy S5 (Lineage-OS 14.1/15.1)</h3>
+<h3 style="color: blue">SmartPack-Kernel for OnePlus 5T (Stock OOS-Oreo)</h3>
+
+<h4>Supported devices</h4>
+* dumpling: OnePlus 5T
+
+### Important links
+<p><a href="https://forum.xda-developers.com/oneplus-5t/development/kernel-smartpack-linaro-gcc-7-x-oxygen-t3832458" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=281037" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_OP5T/Oreo/change-logs.md" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic011.png?raw=true" alt="" width="35" height="35" /></a></p>
+
+<p style="text-align: center;">*** *** *** *** ***</p>
+
+<h3 style="color: blue">SmartPack-Kernel for Samsung Galaxy S5 (Lineage-OS 14.1/15.1)</h3>
 
 <h4>Supported devices</h4>
 * klte: SM-G900F, SM-G900V, SM-S902L
@@ -30,7 +40,7 @@ permalink: /kernel-projects/
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
-<h3 style="color: blue">2. SmartPack-Kernel for Samsung Galaxy S5 (Stock Marshmallow)</h3>
+<h3 style="color: blue">SmartPack-Kernel for Samsung Galaxy S5 (Stock Marshmallow)</h3>
 
 <h4>Supported devices</h4>
 * klte: SM-G900F
@@ -43,7 +53,7 @@ permalink: /kernel-projects/
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
-<h3 style="color: blue">3. Stock-Kernel (GCC-7.x/8.x) for Samsung Galaxy S5 (Lineage-OS 14.1/15.1)</h3>
+<h3 style="color: blue">Stock-Kernel (GCC-7.x/8.x) for Samsung Galaxy S5 (Lineage-OS 14.1/15.1)</h3>
 
 <h4>Supported devices</h4>
 * klte: SM-G900F, SM-G900V, SM-S902L
@@ -54,7 +64,7 @@ permalink: /kernel-projects/
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
-<h3 style="color: blue">4. Boeffla-Kernel (unofficial) for Samsung Galaxy S5 (Lineage-OS 15.1)</h3>
+<h3 style="color: blue">Boeffla-Kernel (unofficial) for Samsung Galaxy S5 (Lineage-OS 15.1)</h3>
 
 <h4>Supported devices</h4>
 * klte: SM-G900F, SM-G900V, SM-S902L
