@@ -27,7 +27,7 @@ permalink: /motog2015/
 * Build from LineageOS 15.1 <a href="https://github.com/MOTO-M8916/kernel_motorola_msm8916/" target="_blank">source code</a> maintained by MOTO-M8916 development team
 * Built using latest (GCC 8.x) toolchain
 * Anykernel base for the best compatibility
-* Kernel tweaking app recommend: <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">SmartPack-Kernel Manager</a>
+* Kernel tweaking app recommend: <a href="https://sunilpaulmathew.github.io/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
 * CPU Input Boost (enabled by default, requires SmartPack-Kernel-Manager)
 * CPU Freq Gov: Blu_active and ElementalX
 * Adreno Idler
@@ -56,6 +56,14 @@ permalink: /motog2015/
 * Go to TWRP
 * Flash Kernel
 * Reboot and enjoy
+
+<p style="text-align: center;">*** *** *** *** ***</p>
+
+<h3 style="color: blue">Donations</h3>
+
+<p style="text-align: justify;"><tab1>If you like to appreciate my work, please consider donating to me as it will help me to continue my projects more active, though it is not at all necessary.</tab1></p>
+
+<p><a href="https://www.paypal.me/sunilpaulmathew" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic005.png?raw=true" alt="" width="50" height="50" /></a></p>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
