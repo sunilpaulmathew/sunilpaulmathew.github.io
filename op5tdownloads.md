@@ -20,7 +20,7 @@ permalink: /op5t/
 <p style="text-align: center;"><img src="https://wiki.lineageos.org/images/devices/dumpling.png" alt="" width="147" height="300" /></p>
 
 <h3 style="color: blue">Compatibility</h3>
-<p>This kernel is only meant to work on stock Oxygen OS (5.1.4) and nothing else. However, it may work on other OOS based Oreo ROMs as well (Please try at your own risk).</p>
+<p>This kernel is only meant to work on stock Oxygen OS and nothing else. However, it may work on other OOS based Oreo ROMs as well (Please try at your own risk).</p>
 
 <h3 style="color: blue">Features</h3>
 
@@ -74,4 +74,4 @@ permalink: /op5t/
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
-<h3>! <a href="https://sunilpaulmathew.github.io/sgs5"><strong>SGS5</strong></a> ! <a href="https://sunilpaulmathew.github.io/op5t"><strong>OP5T</strong></a> ! <a href="https://sunilpaulmathew.github.io/motog2015"><strong>Moto G 2015</strong></a> ! <a href="https://sunilpaulmathew.github.io/downloads"><strong>Others</strong></a> !</h3>
+<h3 style="color: red; text-align: center">! <a href="https://sunilpaulmathew.github.io/sgs5"><strong>SGS5</strong></a> ! <a href="https://sunilpaulmathew.github.io/op5t"><strong>OP5T</strong></a> ! <a href="https://sunilpaulmathew.github.io/motog2015"><strong>Moto G 2015</strong></a> ! <a href="https://sunilpaulmathew.github.io/downloads"><strong>Others</strong></a> !</h3>
