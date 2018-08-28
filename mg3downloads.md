@@ -30,6 +30,7 @@ permalink: /motog2015/
 * Kernel tweaking app recommend: <a href="https://sunilpaulmathew.github.io/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
 * CPU Input Boost (enabled by default, requires SmartPack-Kernel-Manager)
 * CPU Freq Gov: Blu_active and ElementalX
+* CPU hotplugs: Lazyplug & Alucard
 * Adreno Idler
 * Performance Tweaks (Spectrum based) within SmartPack-Kernel Manager
 * Faux Sound to control Headphone (including per-channel gain in SmartPack-Kernel Manager), Speaker and Microphone (calls)
