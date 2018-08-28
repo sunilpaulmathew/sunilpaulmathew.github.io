@@ -54,6 +54,8 @@ permalink: /sgs5/
 * Flash Kernel
 * Reboot and enjoy
 
+<p>(<i>for more information, visit support page at <a href="https://forum.xda-developers.com/galaxy-s5/unified-development/kernel-project-kltexxx-t3564206" target="_blank">xda-developers.com</a></i>)</p>
+
 <p style="text-align: center;">*** *** *** *** ***</p>
 
 <h3 style="color: blue">Donations</h3>
@@ -94,3 +96,5 @@ permalink: /sgs5/
 * klteduos ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177765" target="_blank">All builds</a>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
+
+<h3>! <a href="https://sunilpaulmathew.github.io/sgs5"><strong>SGS5</strong></a> ! <a href="https://sunilpaulmathew.github.io/op5t"><strong>OP5T</strong></a> ! <a href="https://sunilpaulmathew.github.io/motog2015"><strong>Moto G 2015</strong></a> ! <a href="https://sunilpaulmathew.github.io/downloads"><strong>Others</strong></a> !</h3>

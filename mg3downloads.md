@@ -58,6 +58,8 @@ permalink: /motog2015/
 * Flash Kernel
 * Reboot and enjoy
 
+<p>(<i>for more information, visit support page at <a href="https://forum.xda-developers.com/2015-moto-g/orig-development/kernel-smartpack-linaro-gcc-7-x-lineage-t3834515" target="_blank">xda-developers.com</a></i>)</p>
+
 <p style="text-align: center;">*** *** *** *** ***</p>
 
 <h3 style="color: blue">Donations</h3>
@@ -77,3 +79,5 @@ permalink: /motog2015/
 * <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank">Latest version</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/" target="_blank">All versions</a> !
 
 <p style="text-align: center;">*** *** *** *** ***</p>
+
+<h3>! <a href="https://sunilpaulmathew.github.io/sgs5"><strong>SGS5</strong></a> ! <a href="https://sunilpaulmathew.github.io/op5t"><strong>OP5T</strong></a> ! <a href="https://sunilpaulmathew.github.io/motog2015"><strong>Moto G 2015</strong></a> ! <a href="https://sunilpaulmathew.github.io/downloads"><strong>Others</strong></a> !</h3>

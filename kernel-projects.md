@@ -53,6 +53,16 @@ permalink: /kernel-projects/
 
 <p style="text-align: center;">*** *** *** *** ***</p>
 
+<h3 style="color: blue">SmartPack-Kernel for Moto G 2015 (Lineage-OS 15.1)</h3>
+
+<h4>Supported devices</h4>
+* Moto G 2015: osprey
+
+### Important links
+<p><a href="https://forum.xda-developers.com/2015-moto-g/orig-development/kernel-smartpack-linaro-gcc-7-x-lineage-t3834515" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_osprey" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=281324" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_osprey/Oreo/change-logs.md" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic011.png?raw=true" alt="" width="35" height="35" /></a></p>
+
+<p style="text-align: center;">*** *** *** *** ***</p>
+
 <h3 style="color: blue">Stock-Kernel (GCC-7.x/8.x) for Samsung Galaxy S5 (Lineage-OS 14.1/15.1)</h3>
 
 <h4>Supported devices</h4>
