@@ -20,7 +20,7 @@ permalink: /op5t/
 <p style="text-align: center;"><img src="https://wiki.lineageos.org/images/devices/dumpling.png" alt="" width="147" height="300" /></p>
 
 <h3 style="color: blue">Compatibility</h3>
-<p>This kernel is only meant to work on stock Oxygen OS and nothing else. However, it may work on other OOS based Oreo ROMs as well (Please try at your own risk).</p>
+<p>This kernel is only meant to work on stock Oxygen OS (Stable & Open Beta) and nothing else. However, it may work on other OOS based Oreo ROMs as well (Please try at your own risk).</p>
 
 <h3 style="color: blue">Features</h3>
 
@@ -32,12 +32,13 @@ permalink: /op5t/
 * CPU Input Boost (enabled by default, requires SmartPack-Kernel-Manager)
 * CPU Freq Gov: Blu_active and Impulse
 * Adreno Boost for msm-adreno-tz (disabled by default)
-* IO schedulers: Maple
+* IO schedulers: Maple, Zen, Fiops, SIO & SIO Plus
 * Advanced TCP congestion algorithms (default: Westwood)
 * Performance Tweaks (Spectrum based) within SmartPack-Kernel Manager
 * Real-time charging status in SmartPack-Kernel Manager
 * Boeffla Sound to control Headphone, Earpiece (calls) and Microphone (calls)
 * Boeffla Generic Wakelock Blocker
+* Vibration Strength Control
 * USB charging rate bumped up to 900 mA
 * LED blink/fade control
 * KCAL v2 advanced color control interface
@@ -67,7 +68,7 @@ permalink: /op5t/
 <h3 style="color: blue">Downloads</h3>
 
 <p>! <strong>SmartPack-Kernel for OnePlus 5T</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T" target="_blank">Source code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_OP5T/Oreo/change-logs.md" target="_blank">Change-logs</a> !</p>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T/blob/Oreo/kernel-release/SmartPack-Kernel-dumpling.zip?raw=true">Latest version (OOS)</a> ! <a href="https://androidfilehost.com/?w=files&flid=281037" target="_blank">All versions</a>
+* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T/blob/Oreo/kernel-release/SmartPack-Kernel-dumpling.zip?raw=true">Latest version (Stable OOS)</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T/blob/Oreo_Beta/kernel-release/SmartPack-Kernel-dumpling-OB.zip?raw=true">Latest version (Open Beta)</a> ! <a href="https://androidfilehost.com/?w=files&flid=281037" target="_blank">All versions</a>
 
 <p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> !</p>
 * <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank">Latest version</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/" target="_blank">All versions</a> !
