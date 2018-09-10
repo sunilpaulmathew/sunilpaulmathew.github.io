@@ -39,6 +39,7 @@ permalink: /op5t/
 * Boeffla Sound to control Headphone, Earpiece (calls) and Microphone (calls)
 * Boeffla Generic Wakelock Blocker
 * Vibration Strength Control
+* Option to adjust Maximum & Minimum Display Backlight
 * USB charging rate bumped up to 900 mA
 * LED blink/fade control
 * KCAL v2 advanced color control interface

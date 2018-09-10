@@ -29,13 +29,13 @@ permalink: /motog2015/
 * Anykernel base for the best compatibility
 * Kernel tweaking app recommend: <a href="https://sunilpaulmathew.github.io/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
 * CPU Input Boost (enabled by default, requires SmartPack-Kernel-Manager)
-* CPU Freq Gov: Blu_active and ElementalX
-* CPU hotplugs: Lazyplug & Alucard
+* CPU Freq Gov: Blu_active, ElementalX, Interactive Pro, Pegasusq, Yankactive & Alucard
+* CPU hotplugs: Lazyplug, MSM Sleeper & Alucard
 * Adreno Idler
 * Performance Tweaks (Spectrum based) within SmartPack-Kernel Manager
 * Faux Sound to control Headphone (including per-channel gain in SmartPack-Kernel Manager), Speaker and Microphone (calls)
 * Real-time charging status in SmartPack-Kernel Manager
-* Option to adjust Maximum Display Backlight
+* Option to adjust Maximum & Minimum Display Backlight
 * Option to disable charging LED light
 * SELinux "Enforcing" by default (but can be switched to "Permissive" in SmartPack-Kernel Manager)
 * a lot more...

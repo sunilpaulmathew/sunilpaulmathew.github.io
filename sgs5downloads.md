@@ -45,6 +45,7 @@ permalink: /sgs5/
 * Powersuspend
 * Boeffla Generic Wakelock Blocker
 * KCAL v2 advanced color control interface
+* Option to adjust Maximum & Minimum Display Backlight
 * SELinux "Enforcing" by default (can be switched to "Permissive" in SmartPack-Kernel Manager)
 * a lot more...
 
