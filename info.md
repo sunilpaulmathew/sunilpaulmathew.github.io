@@ -16,8 +16,6 @@ permalink: /info/
 
 <p><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic018.png?raw=true" alt="" width="25" height="25" /> +82-10-5854-6401</p>
 
-<p><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic017.png?raw=true" alt="" width="25" height="25" /> sunilpaul@postech.ac.kr</p>
+<p><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic017.png?raw=true" alt="" width="25" height="25" /> sunilpaul@postech.ac.kr (official), sunil.kde@gmail.com (personal)</p>
 
-<p><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic017.png?raw=true" alt="" width="25" height="25" /> sunil.kde@gmail.com</p>
-
-<p><a href="https://www.researchgate.net/profile/Sunil_M2" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic020.png?raw=true" alt="" width="25" height="25" /></a> <a href="https://www.researchgate.net/profile/Sunil_M2" target="_blank">ResearchGate Profile</a></p>
+<p><a href="https://www.researchgate.net/profile/Sunil_M2" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic020.png?raw=true" alt="" width="32" height="32" /></a> <a href="https://scholar.google.co.kr/citations?user=RNbYHqgAAAAJ&hl=en" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic021.png?raw=true" alt="" width="190" height="32" /></a></p>
