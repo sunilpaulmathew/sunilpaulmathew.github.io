@@ -16,6 +16,18 @@ permalink: /end-of-life/
 
 <h2 style="color: red; text-align: center">End-of-Life projects</h2>
 
+<h3 style="color: blue">Stock International ROM for Samsung Galaxy S5 (Stock Marshmallow)</h3>
+
+<h4>Supported devices</h4>
+* klte: SM-G900F
+* kltekor: SM-G900K/L/S
+* kltedcm: SC-04F
+
+### Important links
+<p><a href="https://forum.xda-developers.com/galaxy-s5/development/stock-international-rom-kltekor-t3720407" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://androidfilehost.com/?w=files&flid=235738" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a></p>
+
+<p style="text-align: center;">*** *** *** *** ***</p>
+
 <h3 style="color: blue">SmartPack-Kernel for Samsung Galaxy S5 (Stock Marshmallow)</h3>
 
 <h4>Supported devices</h4>
