@@ -25,12 +25,12 @@ permalink: /op5t/
 <h3 style="color: blue">Features</h3>
 
 * Build from Oxygen OS <a href="https://github.com/android-linux-stable/op5/" target="_blank">source code</a> maintained by nathanchance
-* Built using latest Linaro 7.x (GCC 7.x) toolchain
+* Built using latest GCC 8.x toolchain
 * Anykernel base for the best compatibility
 * Kernel tweaking app recommend: <a href="https://sunilpaulmathew.github.io/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
 * Wireguard support
 * CPU Input Boost (enabled by default, requires SmartPack-Kernel-Manager)
-* CPU Freq Gov: Blu_active and Impulse
+* CPU Freq Gov: Blu_active, Alucard and Impulse
 * Adreno Boost for msm-adreno-tz (disabled by default)
 * IO schedulers: Maple, Zen, Fiops, SIO & SIO Plus
 * Advanced TCP congestion algorithms (default: Westwood)
@@ -49,7 +49,7 @@ permalink: /op5t/
 * a lot more...
 
 <h3 style="color: blue">How-to</h3>
-<p>Direct download from SmartPack-Kernel Manager or from the below link &</p>
+<p>Auto-flash from SmartPack-Kernel Manager or download from the below link &</p>
 * Go to TWRP
 * Flash Kernel
 * Reboot and enjoy

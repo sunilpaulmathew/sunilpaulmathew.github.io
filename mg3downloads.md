@@ -53,7 +53,7 @@ permalink: /motog2015/
 * a lot more...
 
 <h3 style="color: blue">How-to</h3>
-<p>Direct download from SmartPack-Kernel Manager or from the below link &</p>
+<p>Auto-flash from SmartPack-Kernel Manager or download from the below link &</p>
 * Go to TWRP
 * Flash Kernel
 * Reboot and enjoy
