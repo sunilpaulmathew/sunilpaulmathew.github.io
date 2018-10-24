@@ -25,21 +25,23 @@ permalink: /spkm/
 
 <p style="text-align: justify;"><tab1><strong>SmartPack-Kernel Manager</strong> is significantly modified to meet the needs of SmartPack-Kernel and contains a bunch of useful features (specifically for supported devices) over official KA, and are</tab1></p>
 
-* Advanced Charge Control Interface for yank555.lu's Fast Charge & Boeffla Charge Level Interface
-* Spectrum support in-built
-* CPU Input Boost (Sultanxda) Control
-* Adreno Boost (flar2) Control
-* Boeffla Sound Control
-* Significantly different Faux Sound implementation (with per-channel headphone gain).
-* LED Blink/Fade support
-* Display Backlight Control
-* SELinux Switch
-* Boeffla Wakelock Blocker Driver Control
-* Real-time Charging Status
-* Auto-updates (in *About* page)
-* Significantly modified (for SmartPack-Kernel) OTA implementation
-* Dedicated Frequently Asked Questions (FAQ) section for SmartPack-Kernel (Manager)
-* Also compatible with stock & other custom kernels
+* CPU Input Boost (Sultanxda).
+* Simple MSM Thermal (Sultanxda).
+* Advanced Control for Fast Charge (yank555.lu) & Boeffla Charge Level Interface (Lord Boeffla).
+* Boeffla Sound (Lord Boeffla) & Faux Sound (Faux123) with per-channel headphone gain.
+* In-built Spectrum Support (frap129).
+* Adreno Boost (flar2).
+* MSM Sleeper (flar2).
+* Boeffla Wakelock Blocker (Lord Boeffla).
+* Display Backlight Control (Min & Max).
+* SELinux Switch.
+* WireGuard version information.
+* Auto-updates (in About page).
+* Real-time Charging Status.
+* LED Blink/Fade support.
+* Device & android version specific kernel download & Auto flashing for supported devices.
+* Dedicated Frequently Asked Questions (FAQ) section for SmartPack-Kernel (Manager).
+* Also compatible with stock & other kernels
 * And much more…
 
 <p style="text-align: center;">*** *** *** *** ***</p>
@@ -47,6 +49,8 @@ permalink: /spkm/
 <h3 style="color: blue">How-to</h3>
 
 <p>Download and manually install the latest version of app from the below link.</p>
+
+<p>(<i>for more information, visit support page at <a href="https://forum.xda-developers.com/galaxy-s5/unified-development/kernel-project-kltexxx-t3564206" target="_blank">xda-developers.com</a></i>)</p>
 
 <h3 style="color: blue">Donations</h3>
 
@@ -58,7 +62,7 @@ permalink: /spkm/
 
 <h3 style="color: blue">Downloads</h3>
 
-<p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> !</p>
+<p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/" target="_blank">Source Code</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> !</p>
 * <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank">Latest version</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/" target="_blank">All versions</a> !
 
 <p style="text-align: center;">*** *** *** *** ***</p>

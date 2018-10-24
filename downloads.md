@@ -19,7 +19,7 @@ permalink: /downloads/
 
 <h3 style="color: blue">General</h3>
 
-<p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> !</p>
+<p>! <strong><a href="https://sunilpaulmathew.github.io/spkm/" target="_blank">SmartPack-Kernel Manager</a></strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> !</p>
 * <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank">Latest version</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/" target="_blank">All versions</a> !
 
 <p style="text-align: center;">*** *** *** *** ***</p>
@@ -32,18 +32,5 @@ permalink: /downloads/
 * kltedv ! <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/blob/Oreo/kernel-release/Boeffla-Kernel-kltedv.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=279733" target="_blank">All builds</a>
 * klteduos ! <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/blob/Oreo/kernel-release/Boeffla-Kernel-klteduos.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=279733" target="_blank">All builds</a>
 * kltekdi ! <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/blob/Oreo/kernel-release/Boeffla-Kernel-kltekdi.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=279733" target="_blank">All builds</a>
-
-<p style="text-align: center;">*** *** *** *** ***</p>
-
-<h3 style="color: red">End-of-Life Kernels</h3>
-
-<p>! <strong>Stock-Kernel (GCC-7.x/8.x) for Lineage-OS 14.1/15.1 (Nougat/Oreo)</strong> ! <a href="https://raw.githubusercontent.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/Oreo/change-logs.md" target="_blank">Change-logs</a> !</p>
-* klte ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Oreo/kernel-release/Stock-Kernel-klte-linaro.zip?raw=true">Final GCC-7.x build (Oreo)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Oreo/kernel-release/Stock-Kernel-klte-ubertc.zip?raw=true">Final GCC-8.x build (Oreo)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases" target="_blank">All builds</a>
-* kltekor ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Oreo/kernel-release/Stock-Kernel-kltekor-linaro.zip?raw=true">Final GCC-7.x build (Oreo)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Oreo/kernel-release/Stock-Kernel-kltekor-ubertc.zip?raw=true">Final GCC-8.x build (Oreo)</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases" target="_blank">All builds</a>
-
-<p style="text-align: center;">! Nougat builds !</p>
-
-* klte ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-klte-linaro.zip?raw=true">Final linaro build</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-klte-ubertc.zip?raw=true">Final ubertc build</a>
-* kltekor ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-kltekor-linaro.zip?raw=true">Final linaro build</a> ! <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/blob/Nougat/kernel-release/Stock-Kernel-kltekor-ubertc.zip?raw=true">Final ubertc build</a>
 
 <p style="text-align: center;">*** *** *** *** ***</p>
