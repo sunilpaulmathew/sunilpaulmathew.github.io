@@ -8,13 +8,6 @@ permalink: /downloads/
     tab1 { padding-left: 4em; }
 </style>
 
-* <a href="https://sunilpaulmathew.github.io/smartpack/">Main</a>
-* <a href="https://sunilpaulmathew.github.io/kernel-projects/">Active Kernel Projects</a>
-* <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
-* <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
-* <a href="https://sunilpaulmathew.github.io/faq/">FAQ</a>
-* <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
-
 <h2 style="color: red; text-align: center">Downloads</h2>
 
 <h3 style="color: blue">General</h3>
@@ -32,5 +25,3 @@ permalink: /downloads/
 * kltedv ! <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/blob/Oreo/kernel-release/Boeffla-Kernel-kltedv.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=279733" target="_blank">All builds</a>
 * klteduos ! <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/blob/Oreo/kernel-release/Boeffla-Kernel-klteduos.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=279733" target="_blank">All builds</a>
 * kltekdi ! <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/blob/Oreo/kernel-release/Boeffla-Kernel-kltekdi.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=279733" target="_blank">All builds</a>
-
-<p style="text-align: center;">*** *** *** *** ***</p>

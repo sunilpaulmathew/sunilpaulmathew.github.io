@@ -8,12 +8,6 @@ permalink: /kernel-projects/
     tab1 { padding-left: 4em; }
 </style>
 
-* <a href="https://sunilpaulmathew.github.io/smartpack/">Main</a>
-* <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
-* <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
-* <a href="https://sunilpaulmathew.github.io/faq/">FAQ</a>
-* <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
-
 <h2 style="color: red; text-align: center">Active Kernel Projects</h2>
 
 <h3 style="color: blue">SmartPack-Kernel for OnePlus 5T (Stock OOS-Oreo)</h3>
@@ -61,5 +55,3 @@ permalink: /kernel-projects/
 
 ### Important links
 <p><a href="https://forum.xda-developers.com/galaxy-s5/orig-development/boeffla-kernel-unofficial-lineage-os-15-t3764497" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://forum.xda-developers.com/devdb/project/?id=25825#downloads" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic010.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/Oreo/change-logs.md" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic011.png?raw=true" alt="" width="35" height="35" /></a></p>
-
-<p style="text-align: center;">*** *** *** *** ***</p>

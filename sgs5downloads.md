@@ -8,13 +8,6 @@ permalink: /sgs5/
     tab1 { padding-left: 4em; }
 </style>
 
-* <a href="https://sunilpaulmathew.github.io/smartpack/">Main</a>
-* <a href="https://sunilpaulmathew.github.io/kernel-projects/">Active Kernel Projects</a>
-* <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
-* <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
-* <a href="https://sunilpaulmathew.github.io/faq/">FAQ</a>
-* <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
-
 <h2 style="color: red; text-align: center">Samsung Galaxy S5</h2>
 
 <p style="text-align: center;"><img src="https://wiki.lineageos.org/images/devices/klte.png" alt="" width="154" height="300" /></p>
@@ -95,7 +88,3 @@ permalink: /sgs5/
 * kltekor ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-kltekor.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177764" target="_blank">All builds</a>
 * kltespr ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-kltespr.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177768" target="_blank">All builds</a>
 * klteduos ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177765" target="_blank">All builds</a>
-
-<p style="text-align: center;">*** *** *** *** ***</p>
-
-<h3 style="color: red; text-align: center">! <a href="https://sunilpaulmathew.github.io/sgs5"><strong>SGS5</strong></a> ! <a href="https://sunilpaulmathew.github.io/op5t"><strong>OP5T</strong></a> ! <a href="https://sunilpaulmathew.github.io/motog2015"><strong>Moto G 2015</strong></a> ! <a href="https://sunilpaulmathew.github.io/downloads"><strong>Others</strong></a> !</h3>

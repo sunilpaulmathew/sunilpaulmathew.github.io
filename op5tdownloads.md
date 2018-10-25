@@ -8,13 +8,6 @@ permalink: /op5t/
     tab1 { padding-left: 4em; }
 </style>
 
-* <a href="https://sunilpaulmathew.github.io/smartpack/">Main</a>
-* <a href="https://sunilpaulmathew.github.io/kernel-projects/">Active Kernel Projects</a>
-* <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
-* <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
-* <a href="https://sunilpaulmathew.github.io/faq/">FAQ</a>
-* <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
-
 <h2 style="color: red; text-align: center">OnePlus 5T</h2>
 
 <p style="text-align: center;"><img src="https://wiki.lineageos.org/images/devices/dumpling.png" alt="" width="147" height="300" /></p>
@@ -73,7 +66,3 @@ permalink: /op5t/
 
 <p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> !</p>
 * <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank">Latest version</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/" target="_blank">All versions</a> !
-
-<p style="text-align: center;">*** *** *** *** ***</p>
-
-<h3 style="color: red; text-align: center">! <a href="https://sunilpaulmathew.github.io/sgs5"><strong>SGS5</strong></a> ! <a href="https://sunilpaulmathew.github.io/op5t"><strong>OP5T</strong></a> ! <a href="https://sunilpaulmathew.github.io/motog2015"><strong>Moto G 2015</strong></a> ! <a href="https://sunilpaulmathew.github.io/downloads"><strong>Others</strong></a> !</h3>

@@ -4,12 +4,6 @@ title: Frequently Asked Questions (FAQ)
 permalink: /faq/
 ---
 
-* <a href="https://sunilpaulmathew.github.io/smartpack/">Main</a>
-* <a href="https://sunilpaulmathew.github.io/kernel-projects/">Active Kernel Projects</a>
-* <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
-* <a href="https://sunilpaulmathew.github.io/end-of-life/">End-of-Life projects</a>
-* <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
-
 <h2 style="color: red; text-align: center">Frequently Asked Questions (FAQ)</h2>
 
 <p><strong>Q1</strong>: Which version of kernel should I use?</p>
@@ -38,5 +32,3 @@ permalink: /faq/
 
 <p><strong>Q9</strong>: I found a bug, what do I do?</p>
 <p><strong>Ans</strong>: Please provide as much information as possible (such as what feature, what didn't work, screenshots or logcat if possible) and post in this thread.</p>
-
-<p style="text-align: center;">*** *** *** *** ***</p>

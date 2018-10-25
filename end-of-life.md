@@ -8,12 +8,6 @@ permalink: /end-of-life/
     tab1 { padding-left: 4em; }
 </style>
 
-* <a href="https://sunilpaulmathew.github.io/smartpack/">Main</a>
-* <a href="https://sunilpaulmathew.github.io/kernel-projects/">Active Kernel Projects</a>
-* <a href="https://sunilpaulmathew.github.io/others/">Other projects</a>
-* <a href="https://sunilpaulmathew.github.io/faq/">FAQ</a>
-* <a href="https://sunilpaulmathew.github.io/contact/">Contact Me</a>
-
 <h2 style="color: red; text-align: center">End-of-Life projects</h2>
 
 <h3 style="color: blue">Stock International ROM for Samsung Galaxy S5 (Stock Marshmallow)</h3>
@@ -77,5 +71,3 @@ permalink: /end-of-life/
 
 ### Important links
 <p><a href="https://forum.xda-developers.com/galaxy-s5/development/boeffla-kernel-unofficial-aosp-7-x-x-t3616463" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="35" height="35" /></a></p>
-
-<p style="text-align: center;">*** *** *** *** ***</p>
