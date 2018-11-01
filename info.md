@@ -10,15 +10,7 @@ permalink: /info/
 
 <h3 style="color: blue; text-align: left;">Official address</h3>
 
-<p><strong>Postdoctoral Researcher</strong>,</p>
-<p>Room#205, Division of Environmental Science and Engineering,</p>
-<p>Pohang University of Science and Technology (POSTECH),</p>
-<p>77 Cheongam-ro, Jigok-dong, Nam-gu, Pohang,</p>
-<p>Gyeongsangbuk-do, Republic of Korea</p>
-
-<hr>
-
-<h3 style="color: blue; text-align: left;">Contacts</h3>
+<p><strong>Postdoctoral Researcher</strong>,<br>Room#205,<br>Division of Environmental Science and Engineering,<br>Pohang University of Science and Technology (POSTECH),<br>77 Cheongam-ro, Jigok-dong, Nam-gu,<br>Pohang, Gyeongsangbuk-do, Republic of Korea</p>
 
 <p><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic018.png?raw=true" alt="" width="25" height="25" /> +82-10-5854-6401</p>
 
