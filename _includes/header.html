@@ -1,17 +1,12 @@
 <!DOCTYPE html>
 
-<!-- Load an icon library to show a hamburger menu (bars) on small screens -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-<div class="topnav" id="myTopnav">
-  <a href="https://sunilpaulmathew.github.io/">Home</a>
-  <a href="https://sunilpaulmathew.github.io/research/">Research</a>
-  <a href="https://sunilpaulmathew.github.io/publications/">Publications</a>
-  <a href="https://sunilpaulmathew.github.io/achievements/">Achievements</a>
-  <a href="https://sunilpaulmathew.github.io/info/">Contacts</a>
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    <i class="fa fa-bars"></i>
-  </a>
-</div>
-
-<p style="margin-bottom:25px;"></p>
+      <header>
+	<p style="text-align: center;"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic001.png?raw=true" alt="" width="175" height="175" /></p>
+        <a href="{{ site.github.url }}"> <h3 style="text-align: center;">{{ site.title | default: site.github.repository_name }}</h3> </a>
+        <p style="text-align: left;">{{ site.description | default: site.github.project_tagline }}</p>
+        <p style="text-align: center;"><a href="https://sunilpaulmathew.github.io/"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic013.png?raw=true" alt="" width="65" height="65" /></a> <a href="https://sunilpaulmathew.github.io/achievements/"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic016.png?raw=true" alt="" width="65" height="65" /></a> <a href="https://sunilpaulmathew.github.io/info/"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic019.png?raw=true" alt="" width="65" height="65" /></a></p>
+        <p style="text-align: center;"><a href="https://sunilpaulmathew.github.io/research/"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic014.png?raw=true" alt="" width="75" height="75" /></a> <a href="https://sunilpaulmathew.github.io/publications/"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic015.png?raw=true" alt="" width="75" height="75" /></a></p>
+        {% if site.github.is_user_page %}
+        {% endif %}
+	<p style="text-align: center;"><small>Idea & design: Aswathy Luckose</small></p>
+      </header>

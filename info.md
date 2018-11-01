@@ -16,6 +16,8 @@ permalink: /info/
 <p>77 Cheongam-ro, Jigok-dong, Nam-gu, Pohang,</p>
 <p>Gyeongsangbuk-do, Republic of Korea</p>
 
+<hr>
+
 <h3 style="color: blue; text-align: left;">Contacts</h3>
 
 <p><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic018.png?raw=true" alt="" width="25" height="25" /> +82-10-5854-6401</p>

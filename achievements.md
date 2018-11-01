@@ -14,6 +14,8 @@ permalink: /achievements/
 * “Dr. Hari Mohan memorial award” for the best poster in Trombay Symposium on Radiation and Photochemistry (TSRP 2014) held on January 6-9, 2014 at Mumbai, India
 * Selected as an "International visiting student" by Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea, for a period of one year (2014)
 
+<hr>
+
 <h3 style="color: blue; text-align: left;">Reviewer of International journals</h3>
 
 * Catalysis Today (Elsevier)
