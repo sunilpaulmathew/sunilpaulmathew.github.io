@@ -8,7 +8,7 @@ permalink: /news/
     tab1 { padding-left: 4em; }
 </style>
 
-<h3 style="color: blue; text-align: center;">News</h3>
+<h3 style="color: blue; text-align: left;">News</h3>
 
 <p style="color: red; text-align: left;"><strong>Nov. 07, 2018: New article published in ES&T, ACS.</strong></p>
 
