@@ -18,7 +18,7 @@ permalink: /news/
 
 <h4 style="color: red; text-align: left;">Graphical abstract</h4>
 
-<p style="color: blue; text-align: center;"><a href="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic013.jpg?raw=true" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic013.jpg?raw=true" alt="" width="450" height="250" /></a></p>
+<p style="color: blue; text-align: center;"><a href="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic011.jpg?raw=true" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic011.jpg?raw=true" alt="" width="450" height="250" /></a></p>
 
 <hr>
 
