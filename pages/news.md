@@ -10,6 +10,14 @@ permalink: /news/
 
 <h3 style="color: blue; text-align: left;">News</h3>
 
+<p style="color: red; text-align: left;"><strong>27 Feb. 27, 2019: New article published in Proc. SPIE 10870, Design and Quality for Biomedical Technologies XII.</strong></p>
+
+<h4><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10870/108700N/Poor-optical-stability-of-molecular-dyes-when-used-as-absorbers/10.1117/12.2506977.short?SSO=1">Poor optical stability of molecular dyes when used as absorbers in water-based tissue-simulating phantoms</a></h4>
+
+<p>Blaž Cugmas, Peter Naglič, <strong>Sunil Paul Mathew Menachery</strong>, Franjo Pernuš, Boštjan Likar</p>
+
+<hr>
+
 <p style="color: red; text-align: left;"><strong>Nov. 07, 2018: New article published in ES&T, ACS.</strong></p>
 
 <h4><a href="https://pubs.acs.org/doi/10.1021/acs.est.8b04484" target="_blank">Ligand-specific Dissolution of Iron Oxides in Frozen Solutions</a></h4>
