@@ -10,6 +10,18 @@ permalink: /news/
 
 <h3 style="color: blue; text-align: left;">News</h3>
 
+<p style="color: red; text-align: left;"><strong>May 13, 2019: New article published in ES&T, ACS.</strong></p>
+
+<h4><a href="https://pubs.acs.org/doi/10.1021/acs.est.8b06659" target="_blank">Simultaneous and synergic production of bioavailable iron and reactive iodine species in ice</a></h4>
+
+<p>Kitae Kim, <strong>Sunil Paul M. Menachery</strong>, Jungwon Kim, Hyun Young Chung, Daun Jeong, Alfonso Saiz-Lopez, Wonyong Choi</p>
+
+<h4 style="color: red; text-align: left;">Graphical abstract</h4>
+
+<p style="color: blue; text-align: center;"><a href="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic011.jpg?raw=true" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic014.png?raw=true" alt="" width="390" height="450" /></a></p>
+
+<hr>
+
 <p style="color: red; text-align: left;"><strong>27 Feb. 27, 2019: New article published in Proc. SPIE 10870, Design and Quality for Biomedical Technologies XII.</strong></p>
 
 <h4><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10870/108700N/Poor-optical-stability-of-molecular-dyes-when-used-as-absorbers/10.1117/12.2506977.short?SSO=1" target="_blank">Poor optical stability of molecular dyes when used as absorbers in water-based tissue-simulating phantoms</a></h4>

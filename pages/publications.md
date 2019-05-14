@@ -10,8 +10,8 @@ permalink: /publications/
 
 <h3 style="color: blue; text-align: left;">Publications</h3>
 
-<p style="text-align: justify;">Kim, K.: <strong>Sunil Paul, M. M.</strong>; Daun, J.; Saiz-Lopez, A.; Choi, W.; Simultaneous and synergic production of bioavailable iron and reactive iodine species in ice. Environ. Sci. Technol. (Minor revision required).<br>
-<br>Blaž, C,; Naglič, P,; <strong>Sunil Paul, M. M.</strong>; Pernuš, F,; Likar, B,; <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10870/108700N/Poor-optical-stability-of-molecular-dyes-when-used-as-absorbers/10.1117/12.2506977.short?SSO=1" target="_blank">Poor optical stability of molecular dyes when used as absorbers in water-based tissue-simulating phantoms.</a>, Proc. SPIE 10870, Design and Quality for Biomedical Technologies XII, 108700N (https://doi.org/10.1117/12.2506977).<br>
+<p style="text-align: justify;">Kim, K.: <strong>Sunil Paul, M. M.</strong>; Kim, J.: Chung, H. Y.; Daun, J.; Saiz-Lopez, A.; Choi, W.; <a href="https://pubs.acs.org/doi/10.1021/acs.est.8b06659" target="_blank">Simultaneous and synergic production of bioavailable iron and reactive iodine species in ice.</a> Environ. Sci. Technol., 2019 (DOI: 10.1021/acs.est.8b06659).<br>
+<br>Blaž, C,; Naglič, P,; <strong>Sunil Paul, M. M.</strong>; Pernuš, F,; Likar, B,; <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10870/108700N/Poor-optical-stability-of-molecular-dyes-when-used-as-absorbers/10.1117/12.2506977.short?SSO=1" target="_blank">Poor optical stability of molecular dyes when used as absorbers in water-based tissue-simulating phantoms.</a> Proc. SPIE 10870, Design and Quality for Biomedical Technologies XII, 108700N (https://doi.org/10.1117/12.2506977).<br>
 <br><strong>Sunil Paul, M. M.</strong>; Kim, K.: Lee, W.; Choi, C. H.; Choi, W.; <a href="https://pubs.acs.org/doi/10.1021/acs.est.8b04484" target="_blank">Ligand-specific Dissolution of Iron Oxides in Frozen Solutions.</a> Environ. Sci. Technol., 2018, 52, 13766-13773.<br>
 <br><strong>Sunil Paul, M. M.</strong>; Nguyen, T. P.; Aravind, U. K.; Pramod, G.; Aravindakumar, C. T.; <a href="https://www.sciencedirect.com/science/article/pii/S0301010418306980" target="_blank">Exploring the Mechanism of Diphenylmethanol Oxidation: A Combined Experimental and Theoretical Approach.</a> Chem. Phys., 2018, 513, 201-208.<br>
 <br>Oturan, N.; Aravindakumar, C.T.; Olvera-Vargas, H.; <strong>Sunil Paul, M. M.</strong>; Oturan, M. A.; <a href="https://link.springer.com/article/10.1007%2Fs11356-017-9309-6" target="_blank">Electro-Fenton oxidation of para-aminosalicylic acid: degradation kinetics and mineralization pathway using Pt/carbon-felt and BDD/carbon-felt cells.</a> Environ. Sci. & Pollut. Res., 2018, 25, 20363-20373.<br>
@@ -27,9 +27,9 @@ permalink: /publications/
 
 <hr>
 
-<h4 style="color: blue; text-align: left;">Articles under preparation</h4>
+<h4 style="color: blue; text-align: left;">Articles under revision/preparation</h4>
 
-<p style="text-align: justify;"><strong>Sunil Paul, M. M.</strong>; Daun, J.; Aravindakumar, C. T.; Lee, W.; Choi, W.; Halide-Induced Dissolution of Lead(IV) Oxide in Frozen Environment.<br>
+<p style="text-align: justify;"><strong>Sunil Paul, M. M.</strong>; Daun, J.; Aravindakumar, C. T.; Lee, W.; Choi, W.; Halide-Induced Dissolution of Lead(IV) Oxide in Frozen Environment. J. Hazard. Mater. (Under revision)<br>
 <br>Sreekanth, R.; <strong>Sunil Paul, M. M.</strong>; Renjith, S.; Manojkumar, T. K.; Aravind, U. K.; Aravindakumar, C. T.; Oxidation Reactions of Carbary in Aqueous Solutions.<br>
 <br>Shoniya Thomas; Manoj, P. R.; <strong>Sunil Paul, M. M.</strong>; Aravind, U. K.; Aravindakumar, C. T.; Sonochemical Transformation of Benzenesulfonic Acid in Aqueous Medium.<br>
 <br><strong>Sunil Paul, M. M.</strong>; Aravind, U. K.; Pramod, G.; Aravindakumar, C. T.; Oxidative Degradation of Pharmaceutical Waste, Theophylline, from River Water.<br></p>
