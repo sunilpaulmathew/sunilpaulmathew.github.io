@@ -10,6 +10,14 @@ permalink: /news/
 
 <h3 style="color: blue; text-align: left;">News</h3>
 
+<p style="color: red; text-align: left;"><strong>September 23, 2019: New article published in J. Hazard. Mater., Elsevier.</strong></p>
+
+<h4><a href="https://doi.org/10.1016/j.jhazmat.2019.121298" target="_blank">Halide-Induced Dissolution of Lead(IV) Oxide in Frozen Solution</a></h4>
+
+<p><strong>Sunil Paul M. Menachery</strong>, Dae Wi Min, Daun Jeong, Charuvila T. Aravindakumar, Woojin Lee, Wonyong Choi</p>
+
+<hr>
+
 <p style="color: red; text-align: left;"><strong>July 02, 2019: Happy to share the front cover of Environmental Science and Technology, ACS (Volume 53) featuring our work.</strong></p>
 
 <p style="color: blue; text-align: center;"><a href="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic015.jpg?raw=true" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic015.jpg?raw=true" alt="" width="340" height="450" /></a></p>
