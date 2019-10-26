@@ -10,6 +10,12 @@ permalink: /news/
 
 <h3 style="color: blue; text-align: left;">News</h3>
 
+<p style="color: red; text-align: left;"><strong>October 14, 2019: New job started at CULS Prague.</strong></p>
+
+<p>Joined <a href="https://www.czu.cz/en/" target="_blank">Czech University of Life Sciences Prague</a> (CULS), also known as Česká zemědělská univerzita v Praze (CZU), Czech Republic, as a Postdoctoral Researcher. As a part of the research group of Prof. Radka Kodešová, Department of Soil Science and Soil Protection, I will work on the behavior of organic pollutants (pesticides, pharmaceuticals etc.) in soil.</p>
+
+<hr>
+
 <p style="color: red; text-align: left;"><strong>September 23, 2019: New article published in J. Hazard. Mater., Elsevier.</strong></p>
 
 <h4><a href="https://doi.org/10.1016/j.jhazmat.2019.121298" target="_blank">Halide-Induced Dissolution of Lead(IV) Oxide in Frozen Solution</a></h4>
