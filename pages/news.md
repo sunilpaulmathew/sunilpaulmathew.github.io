@@ -10,13 +10,21 @@ permalink: /news/
 
 <h3 style="color: blue; text-align: left;">News</h3>
 
-<p style="color: red; text-align: left;"><strong>October 14, 2019: New job started at CULS Prague.</strong></p>
+<p style="color: red; text-align: left;"><strong>March 2020: New article published in Chemosphere, Elsevier.</strong></p>
+
+<h4><a href="https://www.sciencedirect.com/science/article/pii/S0045653520306780" target="_blank">Sonochemical degradation of benzenesulfonic acid in aqueous medium</a></h4>
+
+<p>Shoniya Thomas, Manoj P.Rayaroth, <strong>Sunil Paul M. Menachery</strong>, Usha K.Aravind, Charuvila T. Aravindakumar</p>
+
+<hr>
+
+<p style="color: red; text-align: left;"><strong>October 2019: New job started at CULS Prague.</strong></p>
 
 <p>Joined <a href="https://www.czu.cz/en/" target="_blank">Czech University of Life Sciences Prague</a> (CULS), also known as Česká zemědělská univerzita v Praze (CZU), Czech Republic, as a Postdoctoral Researcher. As a part of the research group of Prof. Radka Kodešová, Department of Soil Science and Soil Protection, I will work on the behavior of organic pollutants (pesticides, pharmaceuticals etc.) in soil.</p>
 
 <hr>
 
-<p style="color: red; text-align: left;"><strong>September 23, 2019: New article published in J. Hazard. Mater., Elsevier.</strong></p>
+<p style="color: red; text-align: left;"><strong>September 2019: New article published in J. Hazard. Mater., Elsevier.</strong></p>
 
 <h4><a href="https://doi.org/10.1016/j.jhazmat.2019.121298" target="_blank">Halide-Induced Dissolution of Lead(IV) Oxide in Frozen Solution</a></h4>
 
@@ -24,7 +32,7 @@ permalink: /news/
 
 <hr>
 
-<p style="color: red; text-align: left;"><strong>July 02, 2019: Happy to share the front cover of Environmental Science and Technology, ACS (Volume 53) featuring our work.</strong></p>
+<p style="color: red; text-align: left;"><strong>July 2019: Happy to share the front cover of Environmental Science and Technology, ACS (Volume 53) featuring our work.</strong></p>
 
 <p style="color: blue; text-align: center;"><a href="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic015.jpg?raw=true" target="_blank"><img src="https://github.com/sunilpaulmathew/sunilpaulmathew.github.io/blob/master/asset/pic015.jpg?raw=true" alt="" width="340" height="450" /></a></p>
 
@@ -32,7 +40,7 @@ permalink: /news/
 
 <hr>
 
-<p style="color: red; text-align: left;"><strong>May 13, 2019: New article published in ES&T, ACS.</strong></p>
+<p style="color: red; text-align: left;"><strong>May 2019: New article published in ES&T, ACS.</strong></p>
 
 <h4><a href="https://pubs.acs.org/doi/10.1021/acs.est.8b06659" target="_blank">Simultaneous and synergic production of bioavailable iron and reactive iodine species in ice</a></h4>
 
@@ -44,7 +52,7 @@ permalink: /news/
 
 <hr>
 
-<p style="color: red; text-align: left;"><strong>27 Feb. 27, 2019: New article published in Proc. SPIE 10870, Design and Quality for Biomedical Technologies XII.</strong></p>
+<p style="color: red; text-align: left;"><strong>February 2019: New article published in Proc. SPIE 10870, Design and Quality for Biomedical Technologies XII.</strong></p>
 
 <h4><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10870/108700N/Poor-optical-stability-of-molecular-dyes-when-used-as-absorbers/10.1117/12.2506977.short?SSO=1" target="_blank">Poor optical stability of molecular dyes when used as absorbers in water-based tissue-simulating phantoms</a></h4>
 
@@ -52,7 +60,7 @@ permalink: /news/
 
 <hr>
 
-<p style="color: red; text-align: left;"><strong>Nov. 07, 2018: New article published in ES&T, ACS.</strong></p>
+<p style="color: red; text-align: left;"><strong>November 2018: New article published in ES&T, ACS.</strong></p>
 
 <h4><a href="https://pubs.acs.org/doi/10.1021/acs.est.8b04484" target="_blank">Ligand-specific Dissolution of Iron Oxides in Frozen Solutions</a></h4>
 
@@ -64,7 +72,7 @@ permalink: /news/
 
 <hr>
 
-<p style="color: red; text-align: left;"><strong>Aug. 14, 2018: New article published in Chemical Physics, Elsevier.</strong></p>
+<p style="color: red; text-align: left;"><strong>August 2018: New article published in Chemical Physics, Elsevier.</strong></p>
 
 <h4><a href="https://www.sciencedirect.com/science/article/pii/S0301010418306980" target="_blank">Exploring the Mechanism of Diphenylmethanol Oxidation: A Combined Experimental and Theoretical Approach</a></h4>
 
