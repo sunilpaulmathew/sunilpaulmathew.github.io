@@ -7,9 +7,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
     <link rel="shortcut icon" type="image/png" href="/asset/favicon.png"/>
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
 
     {% include nav.html %}
     {% seo %}
@@ -29,11 +26,5 @@
 
     </div>
     <script src="{{ '/asset/js/scale.fix.js' | relative_url }}"></script>
-
-  {% if site.google_analytics %}
-
-      {% include GoogleAnalytics.html %}
-
-  {% endif %}
   </body>
 </html>

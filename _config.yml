@@ -1,5 +1,3 @@
 theme: jekyll-theme-minimal
 title: Dr. Sunil Paul Mathew M.
 description: "<strong>Professional affiliation:</strong> <strong>CULS</strong>, Prague, Czech Republic."
-plugins:
-  - jekyll-seo-tag
